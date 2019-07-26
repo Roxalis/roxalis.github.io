@@ -1,6 +1,10 @@
 ---
 layout: post
-title:  "A Selection of (American) True Crime"
+title:  A Selection of (American) True Crime
+excerpt: "List"
+tags: [crime, literature, murder]
+author:
+date: 26.07.2019
 ---
 
 ![intro pic](/assets/Cold-Nature-Forest.jpg)
@@ -9,7 +13,7 @@ title:  "A Selection of (American) True Crime"
 
 -- Ted Bundy
 
-# Long Read Articles
+### Long Read Articles
 
 [A Hole In The Ground](http://reprints.longform.org/a-hole-in-the-ground). Alex Wilkinson, The New Yorker, 2000.
 
@@ -51,7 +55,7 @@ title:  "A Selection of (American) True Crime"
 
 [Who is the boy in the box?](https://www.phillymag.com/articles/2006/05/15/who-is-the-boy-in-the-box-part-one/) Admin, Philadelphia, 2006.
 
-# Books
+### Books
 
 [A Wilderness of Error: The Trials of Jeffrey MacDonald](https://www.goodreads.com/book/show/13503531-a-wilderness-of-error?from_search=true). Errol Morris, Penguin Books, 2014.
 
