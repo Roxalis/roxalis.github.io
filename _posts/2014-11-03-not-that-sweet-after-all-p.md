@@ -3,7 +3,7 @@ layout: post
 title: Not that sweet after all?
 excerpt: "Critical Review"
 tags: [deep practice, literature, science]
-author: Mike
+author:
 date: 03.11.2014
 ---
 
