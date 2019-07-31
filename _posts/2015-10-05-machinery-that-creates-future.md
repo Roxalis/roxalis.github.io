@@ -13,7 +13,7 @@ The nucleus represents a kind of central data storage and interactive preprocess
 
 The endoplasmatic reticulum (ER) consists of a membrane network surrounding the nucleus, which enables folding or unfolding as well as assembly or disassembly of proteins. Animal cells produce specialized proteins to communicate with the environment.  These signalling proteins play a crucial part during cell division, cell movement, the differentiation into distinct cell types, and cell death.
 
-The ER normally releases folded proteins. The accumulation of unfolded or misfolded proteins leads, however, to an increase in the ER structure and enhances protein degradation. In case of such ER stress, the decision to initiate cell death depends on whether the ER is able to reestablish a balance fast enough. If the ER fails, then the unfolded protein responds is activated - a dysfunction that may result in diabetes or cancer.
+The ER normally releases folded proteins. The accumulation of unfolded or misfolded proteins leads, however, to an increase in the ER structure and enhances protein degradation. In case of such ER stress, the decision to initiate cell death depends on whether the ER is able to reestablish a balance fast enough. If the ER fails, then the unfolded protein responds is activated - a dysfunction that may result in diabetes and cancer.
 
 Peter Walter (Jefferey Cox) and Kazutoshi Mori independently discovered Ire1, a protein mediator of the UPR, in yeast in the early nineties. Ire1 is evolutionary old and thanks to many yeast studies the best understood UPR protein. In reaction to ER stress, Ire1 drives the entire gene expression. It remains unclear, however, if the UPR is initiated by a single or multiple mechanisms.
 

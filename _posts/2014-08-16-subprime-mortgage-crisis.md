@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Subprime Mortgage Crisis
+title: The subprime mortgage crisis
 excerpt: "Summary"
 tags: [2008, real-estate, financial crisis]
 author:
