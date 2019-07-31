@@ -7,9 +7,9 @@ author:
 date: 10.03.2017
 ---
 
-Dear Ms.,
+Dear Ms,
 
-thank you for your interest in visiting Florida for rehabilitation. Mr. Wright, a Jefferson Ranger, has told me about your inquiry and has kindly written this letter. I’m a horse fly and writing is not something I do frequently...
+thank you for your interest in visiting Florida for rehabilitation. Mr Wright, a Jefferson Ranger, has told me about your inquiry and has kindly written this letter. I’m a horse fly and writing is not something I do frequently...
 
 My mother laid 356 eggs on a stone near Lake Miccosukee in Jefferson, Florida. My generation hatched after only a week, so my mother told me. As larvae we crawled onto the wet soil and then into the water to feast on small worms and insects for a few weeks; some got such an appetite they cannibalised on brothers and sisters - we grew intensely. Then, about six weeks later, I moved to drier soil to pupate inside a self-made mud cylinder and hatched fully grown. Since then I’ve been very busy searching for nectar and pollen, which provides us with nutrients for body energy consumption. We avoid open areas with intense sunlight, and, instead, favour shady patch-shape flora complexity. So most of the time you will find us near dirt paths and on the edges of forests.
 
