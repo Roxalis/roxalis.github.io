@@ -2,7 +2,7 @@
 layout: post
 title: The Precision Game
 excerpt: "Poetry"
-tags: [beauty, experiments, gender, landscape, life, love, poetry, regret]
+tags: [experiments, fear, gender, Switzerland, love, poetry]
 author: 
 date: 11.06.2017
 ---
