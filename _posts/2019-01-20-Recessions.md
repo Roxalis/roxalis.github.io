@@ -7,7 +7,7 @@ author:
 date: 20.01.2019
 ---
 
-# The Standard & Poor’s between 1857 and 2018
+## The Standard & Poor’s between 1857 and 2018
 
 “The Standard & Poor’s 500, often abbreviated as the S&P 500, or just the S&P, is an American stock market index based on the market capitalizations of 500 large companies having common stock listed on the NYSE or NASDAQ. The S&P 500 index components and their weightings are determined by S&P Dow Jones Indices. It differs from other U.S. stock market indices, such as the Dow Jones Industrial Average or the NASDAQ Composite index, because of its diverse constituency and weighting methodology. It is one of the most commonly followed equity indices, and many consider it one of the best representations of the U.S. stock market, and a bellwether for the U.S. economy. The National Bureau of Economic Research has classified common stocks as a leading indicator of business cycles.” (Source: Wikipedia)
 
@@ -70,9 +70,9 @@ Table 3: S&P annual yield between 1790 and 2018
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
 yield|	5.18|	2.33|	3.45|	3.21|	9.62|	8.00|	8.26|
 
-Therefore, if someone held the S&P over a long period of 23 years returns have been in average 8 % annually.
+Therefore, if someone had hold the S&P over a long period of 23 years returns would have been in average 8 % annually.
 
-# Economic indicators during recessions (1948 - 2018)
+## Economic indicators during recessions (1948 - 2018)
 
 In the last 70 years the real gross domestic product of the US has been in average 3.22 %; growing quarterly in average by 4.27 % with a maximum growth of 16.7 %. On the contrary decline of the RGDP has been in average at -2.92 % with the worst drop at -10 % in 1957.
 
@@ -107,9 +107,9 @@ Table 5: Percent change in economic indicators since 1948:
 
 Currently real gdp growth is at 4.2 %, unemployment is 3.9 %, inflation 0.31 %, and corporate profits at 3.34 % growth.
 
-# Treasury yields between 1958 and 2018
+## Treasury yields between 1958 and 2018
 
-## The Invers Yield Curve
+### The Invers Yield Curve
 
 "The slope of the yield curve is one of the most powerful predictors of future economic growth, inflation, and recessions. One measure of the yield curve slope (i.e. the difference between 10-year Treasury bond rate and the 3-month Treasury bond rate) is included in the Financial Stress Index published by the St. Louis Fed.
 
