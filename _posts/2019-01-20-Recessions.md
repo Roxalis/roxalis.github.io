@@ -1,8 +1,8 @@
 ---
 layout: post
 title: U.S. Recessions (1857 - 2018)
-excerpt: "Essay"
-tags: [bubbles, recessions]
+excerpt: "Analysis"
+tags: [bubbles, recession, S&P]
 author:
 date: 20.01.2019
 ---
@@ -27,7 +27,7 @@ Table 1: Recessions between 1857 and 2018
 |1882	|FALSE	|railroad decline|	severe|	39|	23	|31.52|	0.81|
 |1887|	FALSE|	-	|mild	|14	|28	|17.97|	1.28|
 |1890|	FALSE|	-	|mild|	11	|21	|17.00	|1.55|
-|1893	|TRUE	|panic	severe|	18	|19	|34.98	|1.94|
+|1893	|TRUE	|panic	|severe|	18	|19	|34.98	|1.94|
 |1895	|FALSE|	deflation	|mild|	19|	25|	19.43|	1.02|
 |1899|	FALSE|	-|	mild|	19|	22	|21.74	|1.14|
 |1902|	FALSE|	-|	mild|	24|	34	|28.73	|1.20|
