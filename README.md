@@ -4,8 +4,10 @@
 
 <ul>
   {% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  <h2>{{ year }}</h2>
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>&#8212; <i><small>{{ post.excerpt | strip_html | truncate: 160 }}</small></i>
     </li>
   {% endfor %}
 </ul>
