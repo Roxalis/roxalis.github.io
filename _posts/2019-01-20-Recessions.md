@@ -121,6 +121,8 @@ All the recessions in the US since 1970 (up through 2017) have been preceded by 
 
 The figure shows the Dow since 1958. Red points correspond to negative yields of the 3-month T-Bill and 10 year Treasury bonds.[^fn6] Points in green indicate very low yields of below 0.3 % of the 3-month T-Bill and the phase of monetary easing combined with bond buying by the US Federal Reserve (FED). Currently there is no negative yield curve over many months and therefore no expectation of a future recession.
 
+## Sources
+
 [^fn1]: Wikipedia: [S&P 500 Index](https://en.wikipedia.org/wiki/S%26P_500_Index). 2019-01-20
 
 [^fn2]: Wikipedia: [List of recessions in the United States](https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_States)

@@ -43,10 +43,9 @@ Coyle, Daniel. “The Talent Code - Greatness isn’t born. It’s grown. Here�
 
 Kerouac, Jack. Ed. Ann Charters. “The Portable Jack Kerouac.”  London: Penguin, 1996. print
 
-Lövdén, Marten et.al. “Training-induced compensation versus magnification of individual differences in memory perfomance.” Frontiers in Human Neuroscience, 15 May 2012: 1-14. Print
+Lövdén, Marten et.al. “Training-induced compensation versus magnification of individual differences in memory performance.” Frontiers in Human Neuroscience, 15 May 2012: 1-14. Print
 
 Stevens, Courtney and D. Bavelier. “The role of selective attention on academic foundations: A cognitive neuroscience perspective.” Dev Cogn Neurosci, 15 February 2012: 30–48. Print
 
-<hr>
 
-[^fn1]: This quote was taken from the essay “Are Writers Made or Born?” a discussion about writing and talent for the Writer’s Digest in 1962 and later published in “The Portable Jack Kerouac”. The quote was inspired by an article on my school- time-hero Jack Kerouac by Maria Popova (Brainpickings).
+[^fn1]: This quote was taken from the essay “Are Writers Made or Born?” a discussion about writing and talent for the Writer’s Digest in 1962 and later published in “The Portable Jack Kerouac.”
