@@ -8,8 +8,8 @@ layout: default
 
 {{content}}
 
-<small>{Written on {{ page.date | date: "%-d %B %Y" }}</small>
+<p><small>Written on {{ page.date | date: "%-d %B %Y" }}</small></p>
 
 {% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+  <p><small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small></p>
 {% endif %}

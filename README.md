@@ -1,3 +1,8 @@
+---
+layout: page
+title: Welcome to my blog
+---
+
 <ul>
   {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
