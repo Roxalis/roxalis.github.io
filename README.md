@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Welcome to my blog
+layout: default
 ---
+
+## Welcome to my blog
 
 <ul>
   {% for post in site.posts %}
