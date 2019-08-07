@@ -24,6 +24,8 @@ In one, in two, and three dimensions.
 A fluke or random gift I don’t seek,  
 But a volition’s path beyond the maze. 
 
+---
+
 ## Contact
 
 A small man walked towards 'Departures'.  
@@ -34,6 +36,8 @@ He expressed grotesque, deliberate gestures.
 With purported friendliness and without a smile  
 The man then replied the inaudible. 
 
+---
+
 ## Topography
 
 While watching Switzerland, the day had dawned above  
@@ -43,6 +47,8 @@ Pure, pierced, and tanned she slept.
 I, blinded, closed my eyes  
 farewell  
 &#8212;   
+
+---
 
 ## Stars
 
@@ -87,6 +93,8 @@ And a smile’s a gift among sisters.
 Resoluteness is the golden key  
 In this blue stream of reinvigoration.    
 
+---
+
 ## Venus boy
 
 An open heart: their words had torn his world  
@@ -104,6 +112,8 @@ With him true love will beg to be
 On her, with him, for her;  
 On him, with her, for him.  
 Love’s but a pessimist &#8212; 
+
+---
 
 ## Painting nails
 
