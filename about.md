@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
+layout: default
 permalink: /about/
 ---
+
+# About
 
 Some information about you!
