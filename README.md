@@ -1,4 +1,4 @@
-## Welcome to my blog
+# Welcome to my blog
 
 <ul>
   {% for post in site.posts %}
