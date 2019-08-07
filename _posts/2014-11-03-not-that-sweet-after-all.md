@@ -47,5 +47,6 @@ Lövdén, Marten et.al. “Training-induced compensation versus magnification of
 
 Stevens, Courtney and D. Bavelier. “The role of selective attention on academic foundations: A cognitive neuroscience perspective.” Dev Cogn Neurosci, 15 February 2012: 30–48. Print
 
+---
 
 [^fn1]: This quote was taken from the essay “Are Writers Made or Born?” a discussion about writing and talent for the Writer’s Digest in 1962 and later published in “The Portable Jack Kerouac.”
