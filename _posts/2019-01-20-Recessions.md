@@ -9,15 +9,15 @@ date: 20.01.2019
 
 ## The Standard & Poor’s between 1857 and 2018
 
-“The Standard & Poor’s 500, often abbreviated as the S&P 500, or just the S&P, is an American stock market index based on the market capitalizations of 500 large companies having common stock listed on the NYSE or NASDAQ. The S&P 500 index components and their weightings are determined by S&P Dow Jones Indices. It differs from other U.S. stock market indices, such as the Dow Jones Industrial Average or the NASDAQ Composite index, because of its diverse constituency and weighting methodology. It is one of the most commonly followed equity indices, and many consider it one of the best representations of the U.S. stock market, and a bellwether for the U.S. economy. The National Bureau of Economic Research has classified common stocks as a leading indicator of business cycles.” (Source: Wikipedia)
+“The Standard & Poor’s 500, often abbreviated as the S&P 500, or just the S&P, is an American stock market index based on the market capitalizations of 500 large companies having common stock listed on the NYSE or NASDAQ. The S&P 500 index components and their weightings are determined by S&P Dow Jones Indices. It differs from other U.S. stock market indices, such as the Dow Jones Industrial Average or the NASDAQ Composite index, because of its diverse constituency and weighting methodology. It is one of the most commonly followed equity indices, and many consider it one of the best representations of the U.S. stock market, and a bellwether for the U.S. economy. The National Bureau of Economic Research has classified common stocks as a leading indicator of business cycles.”[^fn1]
 
-![](/assets/images/Recession_1.jpeg)
+![S&P 500](/assets/images/Recession_1.jpeg)
 
 What can one expect from market participants during an economic decline? During the great depression (1929) the market dropped over 80 percent and it took the markets more than 20 years to recover from losses. But in average the market drops 20.11 % in total during an economic decline (range: 6.36 - 86.03 %) and 1.34 % per month (0.51 - 3.57 %). A recession in average has a length of 1.25 years and a range from 7 months to 5.5 years (panic and depression of 1873).
 
-Table 1: Recessions between 1857 and 2018
+Table 1: Recessions between 1857 and 2018[^fn2]
 
-|year|	bubble?|events|strength|months|post-rec months|S&P drop (%)|drop per month|
+|year|	bubble?[^fn3]|events|strength|months|post-rec months|S&P drop (%)|drop per month|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |1857|	TRUE|	panic|	mild|	19|	23|	30.83|	1.62|
 |1860|	FALSE|	-	|mild|	9	|47	|7.51|	0.83|
@@ -76,7 +76,7 @@ Therefore, if someone had hold the S&P over a long period of 23 years returns wo
 
 In the last 70 years the real gross domestic product of the US has been in average 3.22 %; growing quarterly in average by 4.27 % with a maximum growth of 16.7 %. On the contrary decline of the RGDP has been in average at -2.92 % with the worst drop at -10 % in 1957.
 
-Table 4: Quarterly percent change in economic indicators during recessions
+Table 4: Quarterly percent change in economic indicators during recessions[^fn4]
 
 |year|real GDP|unemployment rate|inflation min|inflation max|corporate profits|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -115,8 +115,20 @@ Currently real gdp growth is at 4.2 %, unemployment is 3.9 %, inflation 0.31 %, 
 
 An inverted yield curve is often a harbinger of recession. A positively sloped yield curve is often a harbinger of inflationary growth. Work by Arturo Estrella and Tobias Adrian has established the predictive power of an inverted yield curve to signal a recession. Their models show that when the difference between short-term interest rates (they use 3-month T-bills) and long-term interest rates (10-year Treasury bonds) at the end of a federal reserve tightening cycle is negative or less than 93 basis points positive, a rise in unemployment usually occurs.
 
-All the recessions in the US since 1970 (up through 2017) have been preceded by an inverted yield curve (10-year vs 3-month). Over the same time frame, every occurrence of an inverted yield curve has been followed by recession as declared by the NBER business cycle dating committee." (Source: Wikipedia)
+All the recessions in the US since 1970 (up through 2017) have been preceded by an inverted yield curve (10-year vs 3-month). Over the same time frame, every occurrence of an inverted yield curve has been followed by recession as declared by the NBER business cycle dating committee."[^fn5]
 
 ![](/assets/images/Recession_2.jpeg)
 
-The figure shows the Dow since 1958. Red points correspond to negative yields of the 3-month T-Bill and 10 year Treasury bonds. Points in green indicate very low yields of below 0.3 % of the 3-month T-Bill and the phase of monetary easing combined with bond buying by the US Federal Reserve (FED). Currently there is no negative yield curve over many months and therefore no expectation of a future recession.
+The figure shows the Dow since 1958. Red points correspond to negative yields of the 3-month T-Bill and 10 year Treasury bonds.[^fn6] Points in green indicate very low yields of below 0.3 % of the 3-month T-Bill and the phase of monetary easing combined with bond buying by the US Federal Reserve (FED). Currently there is no negative yield curve over many months and therefore no expectation of a future recession.
+
+[^fn1]: Wikipedia: [S&P 500 Index](https://en.wikipedia.org/wiki/S%26P_500_Index). 2019-01-20
+
+[^fn2]: Wikipedia: [List of recessions in the United States](https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_States)
+
+[^fn3]: Manias, Panics, and Crashes. A History of Financial Crisis. Kindleberger and Aliber, Palgrave Macmillan, 2011.
+
+[^fn4]: [FRED Economic Data](https://fred.stlouisfed.org)
+
+[^fn5]: Wikipedia: [Yield curve](https://en.wikipedia.org/wiki/Yield_curve). 2019-01-20
+
+[^fn6]: [Daily Treasury Yield Curve Rates](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield)
