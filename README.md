@@ -1,6 +1,4 @@
-## Welcome to my site
-
-...under construction...
+## Welcome to my blog
 
 <ul>
   {% for post in site.posts %}

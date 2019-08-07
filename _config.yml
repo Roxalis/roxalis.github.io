@@ -1,6 +1,20 @@
 theme: jekyll-theme-minimal
 title: Roxalis
+description:
 author: POB
 logo: assets/images/Oxalis.jpg
-description:
+url: https://roxalis.github.io
 google_analytics:
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+footer-links:
+  email: roxalis@runbox.com
+  github: roxalis
+  linkedin:
+  rss: work # just type anything here for a working RSS icon
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
