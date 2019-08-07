@@ -64,13 +64,13 @@ Table 2: Difference in mild and severe recessions
 
 Despite the strong losses of capital during market collapses (recessions), the annual yield of the S&P over more than 200 years has been in average 5.07 %. A more realistic method is to look at individual periods (23 years each):
 
-Table 3: S&P annual yield between 1790 and 2018
+Table 3: S&P annual yield between 1858 and 2018
 
 ||1859-1881|1882-1904|1905-1926|1927-1949|1950-1972|1973-1995|1996-2018|
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
 yield|	5.18|	2.33|	3.45|	3.21|	9.62|	8.00|	8.26|
 
-Therefore, if someone had hold the S&P over a long period of 23 years returns would have been in average 8 % annually.
+Therefore, if someone has held the S&P over a long period of 23 years, then returns have been in average 8 % annually.
 
 ## Economic indicators during recessions (1948 - 2018)
 
@@ -92,9 +92,9 @@ Table 4: Quarterly percent change in economic indicators during recessions[^fn4]
 |2001|	-1.7|5.9|0.06|1.05|-8.35|
 |2007|	-8.4|10.0|-2.33|2.37|-41.16|
 
-Unemployment at its lowest has been 2.5 % in 1953, and in average at 5.77 %. Maximum unemployment of 10.8 % was in 1982/83.
+Unemployment at its lowest had been 2.5 % in 1953, and has been in average 5.77 %. Maximum unemployment was 10.8 % in 1982/83.
 
-Corporate profit quarterly growth at its lowest has been -41.16 % in 2008. In average profits increase at 1.83 %. Maximum profit growth of 50.08 % was reached in 2009.
+Corporate profit quarterly growth at its lowest had been -41.16 % in 2008. In average profits increased at 1.83 %. Maximum profit growth, here 50.08 %, was reached in 2009.
 
 Table 5: Percent change in economic indicators since 1948:
 
@@ -105,7 +105,7 @@ Table 5: Percent change in economic indicators since 1948:
 |CPI|0.47|0.50|1.62|1.47|0.78|0.71|0.38|
 |CP|0.97|1.91|3.23|0.85|1.50|1.46|3.03|
 
-Currently real gdp growth is at 4.2 %, unemployment is 3.9 %, inflation 0.31 %, and corporate profits at 3.34 % growth.
+Currently real GDP growth is at 4.2 %, unemployment is 3.9 %, inflation 0.31 %, and corporate profits are at 3.34 % growth.
 
 ## Treasury yields between 1958 and 2018
 
@@ -119,7 +119,7 @@ All the recessions in the US since 1970 (up through 2017) have been preceded by 
 
 ![](/assets/images/Recession_2.jpeg)
 
-The figure shows the Dow since 1958. Red points correspond to negative yields of the 3-month T-Bill and 10 year Treasury bonds.[^fn6] Points in green indicate very low yields of below 0.3 % of the 3-month T-Bill and the phase of monetary easing combined with bond buying by the US Federal Reserve (FED). Currently there is no negative yield curve over many months and therefore no expectation of a future recession.
+The figure shows the Dow since 1958. Red points correspond to negative yields of the 3-month T-Bill and 10 year Treasury bonds.[^fn6] Points in green indicate very low yields (below 0.3 %) of the 3-month T-Bill and the phase of monetary easing combined with bond buying by the US Federal Reserve (FED). Currently there is no negative yield curve over many months and therefore no expectation of a future recession.
 
 ## Sources
 
