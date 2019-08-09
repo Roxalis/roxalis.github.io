@@ -12,7 +12,7 @@ plugins:
   - jekyll-feed
 
 footer-links:
-  email: test@runbox.com
+  email: 
   github: roxalis
-  linkedin: test
-  twitter: test
+  linkedin:
+  twitter:
