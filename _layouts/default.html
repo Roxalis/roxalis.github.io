@@ -21,13 +21,6 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      <footer>
         <div class="sharebuttons">
           <ul>
             <li class="email">
@@ -44,6 +37,13 @@
             </li>
           </ul>
         </div>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
         <p><small>&copy; POB, {{ site.time | date: '%Y' }}</small></p>
       </footer>
     </div>
