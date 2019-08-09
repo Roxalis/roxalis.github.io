@@ -32,10 +32,23 @@
       </section>
       <footer>
         <p><small>Hosted on GitHub &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-        {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}"> {% include icons/email.svg %}</a>{% endif %}
-        {% if site.footer-links.github %}<a href="https://github.com/{{ site.footer-links.github }}">{% include icons/github.svg %}</a>{% endif %}
-        {% if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}">{% include icons/linkedin.svg %}</a>{% endif %}
-        {% if site.footer-links.twitter %}<a href="https://www.twitter.com/{{ site.footer-links.twitter }}">{% include icons/twitter.svg %}</a>{% endif %}
+        <div class="sharebuttons">
+          <hr />
+          <ul>
+            <li class="email">
+              {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}"> {% include icons/email.svg %}</a>{% endif %}
+            </li>
+            <li class="github">
+              {% if site.footer-links.github %}<a href="https://github.com/{{ site.footer-links.github }}">{% include icons/github.svg %}</a>{% endif %}
+            </li>
+            <li class="linkedin">
+              {% if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}">{% include icons/linkedin.svg %}</a>{% endif %}
+            </li>
+            <li class="twitter">
+              {% if site.footer-links.twitter %}<a href="https://www.twitter.com/{{ site.footer-links.twitter }}">{% include icons/twitter.svg %}</a>{% endif %}
+            </li>
+          </ul>
+        </div>
         <p><small>&copy; POB, {{ site.time | date: '%Y' }}</small></p>
       </footer>
     </div>
