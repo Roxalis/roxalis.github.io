@@ -4,27 +4,14 @@
 @import "jekyll-theme-minimal";
 
 /* Share buttons */
-.sharebuttons {
-  margin: 0 0 0 0;
-  text-align: left;
-}
-
-.sharebuttons ul {
-  margin: 0 0 0 0;
-  text-align: left;
-}
-
-.sharebuttons ul li {
-  display: inline;
-  text-align: left;
-}
-
-.sharebuttons ul li a {
+.sharebuttons a {
+  display: inline-block;
   text-decoration: none;
+  margin: 0 0 0 0;
   text-align: left;
 }
 
-.sharebuttons ul li svg {
+.sharebuttons svg {
   width: 25px;
   height: 25px;
 }
