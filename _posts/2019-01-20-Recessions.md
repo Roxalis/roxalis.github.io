@@ -13,7 +13,7 @@ date: 20.01.2019
 
 ![S&P 500](/assets/images/Recession_1.jpeg)
 
-What can one expect from market participants during an economic decline? During the great depression (1929) the market dropped over 80 percent and it took the markets more than 20 years to recover from losses. But in average the market drops 20.11 % in total during an economic decline (range: 6.36 - 86.03 %) and 1.34 % per month (0.51 - 3.57 %). A recession in average has a length of 1.25 years and a range from 7 months to 5.5 years (panic and depression of 1873).
+What can one expect from market participants during an economic decline? During the Great Depression (1929) the market dropped over 80 percent and it took the markets over 20 years to recover from losses. But on average the market drops 20.11% in total during a recession (variety: 6.36 - 86.03%) and 1.34% per month (0.51 - 3.57%). A recession on average has a length of 1.25 years and a range from 7 months to 5.5 years (panic and depression of 1873).
 
 Table 1: Recessions between 1857 and 2018[^fn2]
 
@@ -50,10 +50,10 @@ Table 1: Recessions between 1857 and 2018[^fn2]
 |1980	|TRUE|	-	|mild|	7|	13|	16.09|	2.30|
 |1981|	TRUE|	Iranian Revolution; mp|	mild|	17|	93|	22.70|	1.34|
 |1990	|FALSE	|-	|mild|	9	|121	|18.98|	2.11|
-|2001|	TRUE|	dot-com bubble; 9/11|	mild|	9|	74|	17.17|	1.91|
+|2001|	TRUE|	Dot-com bubble; 9/11|	mild|	9|	74|	17.17|	1.91|
 |2007|	TRUE|	real-estate bubble|	severe|	19	|NA	|49.94|	2.63|
 
-Between 1857 and 2018 there was a recession in average every 2.58 years (range: 0.92 - 10.08 years) although the frequency after 1945 has notably decreased (figure above) and there was in average every four years an economic decline (median: 3.83). Before 1945: every 1.92 years.
+Between 1857 and 2018 there was a recession in average every 2.58 years (range: 0.92 - 10.08 years) although the frequency after 1945 has decreased (figure above) and there was every four years an economic decline (median: 3.83) in average. Before 1945: every 1.92 years.
 
 Table 2: Difference in mild and severe recessions
 
@@ -62,7 +62,7 @@ Table 2: Difference in mild and severe recessions
 |mild|	14|	18.0|	1.315|
 |severe|	19|	34.98|	1.620|
 
-Despite the strong losses of capital during market collapses (recessions), the annual yield of the S&P over more than 200 years has been in average 5.07 %. A more realistic method is to look at individual periods (23 years each):
+Despite the strong losses of capital during market crashes (recessions), the annual yield of the S&P over 200 years has been in average 5.07%. A more realistic method is to look at individual periods (23 years each):
 
 Table 3: S&P annual yield between 1858 and 2018
 
@@ -70,11 +70,11 @@ Table 3: S&P annual yield between 1858 and 2018
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
 yield|	5.18|	2.33|	3.45|	3.21|	9.62|	8.00|	8.26|
 
-Therefore, if someone has held the S&P over a long period of 23 years, then returns have been in average 8 % annually.
+Therefore, if someone has held the S&P over 23 years, then returns have been 8% annually.
 
 ## Economic indicators during recessions (1948 - 2018)
 
-In the last 70 years the real gross domestic product of the US has been in average 3.22 %; growing quarterly in average by 4.27 % with a maximum growth of 16.7 %. On the contrary decline of the RGDP has been in average at -2.92 % with the worst drop at -10 % in 1957.
+In the last 70 years the real gross domestic product of the US has been in average 3.22%; growing quarterly by 4.27% with a maximum growth of 16.7%. On the contrary decline of the RGDP has been at -2.92% with the worst drop at -10% in 1957.
 
 Table 4: Quarterly percent change in economic indicators during recessions[^fn4]
 
@@ -92,9 +92,9 @@ Table 4: Quarterly percent change in economic indicators during recessions[^fn4]
 |2001|	-1.7|5.9|0.06|1.05|-8.35|
 |2007|	-8.4|10.0|-2.33|2.37|-41.16|
 
-Unemployment at its lowest had been 2.5 % in 1953, and has been in average 5.77 %. Maximum unemployment was 10.8 % in 1982/83.
+Unemployment at its lowest had been 2.5% in 1953 and has been in average 5.77%. Maximum unemployment was 10.8% in 1982/83.
 
-Corporate profit quarterly growth at its lowest had been -41.16 % in 2008. In average profits increased at 1.83 %. Maximum profit growth, here 50.08 %, was reached in 2009.
+Corporate profit quarterly growth at its lowest had been -41.16% in 2008. In average profits increased at 1.83%. Maximum profit growth, here 50.08%, was reached in 2009.
 
 Table 5: Percent change in economic indicators since 1948:
 
@@ -105,11 +105,11 @@ Table 5: Percent change in economic indicators since 1948:
 |CPI|0.47|0.50|1.62|1.47|0.78|0.71|0.38|
 |CP|0.97|1.91|3.23|0.85|1.50|1.46|3.03|
 
-Currently real GDP growth is at 4.2 %, unemployment is 3.9 %, inflation 0.31 %, and corporate profits are at 3.34 % growth.
+Real GDP growth is at 4.2%, unemployment is 3.9%, inflation 0.31%, and corporate profits are at 3.34% growth.
 
 ## Treasury yields between 1958 and 2018
 
-### The Invers Yield Curve
+### The Inverse Yield Curve
 
 "The slope of the yield curve is one of the most powerful predictors of future economic growth, inflation, and recessions. One measure of the yield curve slope (i.e. the difference between 10-year Treasury bond rate and the 3-month Treasury bond rate) is included in the Financial Stress Index published by the St. Louis Fed.
 
@@ -119,7 +119,7 @@ All the recessions in the US since 1970 (up through 2017) have been preceded by 
 
 ![](/assets/images/Recession_2.jpeg)
 
-The figure shows the Dow since 1958. Red points correspond to negative yields of the 3-month T-Bill and 10 year Treasury bonds.[^fn6] Points in green indicate very low yields (below 0.3 %) of the 3-month T-Bill and the phase of monetary easing combined with bond buying by the US Federal Reserve (FED). Currently there is no negative yield curve over many months and therefore no expectation of a future recession.
+The figure shows the Dow since 1958. Red points correspond to negative yields of the 3-month T-Bill and 10 year Treasury bonds.[^fn6] Points in green show very low yields (below 0.3%) of the 3-month T-Bill and the phase of monetary easing combined with bond buying by the US Federal Reserve (FED). There is no negative yield curve over many months and therefore no expectation of a future recession.
 
 ## Sources
 

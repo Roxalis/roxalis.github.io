@@ -12,7 +12,7 @@ date: 11.06.2017
 ## The Precision Game
 
 From in-vivo study to in-vitro test:  
-I’m on a quest to seek and aim for the hit  
+I’m on a quest to aim for the hit  
 &#8212; a multitude.  
 
 No lord in white will help.  
@@ -32,11 +32,11 @@ But a volition’s path beyond the maze.
 
 A small man walked towards 'Departures'.  
 A tall, confident blonde with unknown destination  
-Asked him something &#8212; without inhibition.  
+Asked him something &#8212; with no inhibition.  
 He stopped and turned 180 degrees to face her body;  
 He expressed grotesque, deliberate gestures.   
 With purported friendliness and without a smile  
-The man then replied the inaudible. 
+The man replied the inaudible. 
 
 ---
 
@@ -57,27 +57,27 @@ farewell
 I
 
 A star had left perilous traces.  
-Like a black shadow it bends above him.  
+Like a black shadow, it bends above him.  
 Words, which he now repents, are among  
 The dead. Bullets and knives  
 Gagged them into silence.   
 
 He was safe in room № 12, yet  
-The air was heavy and he battled,  
+The air was heavy, and he battled.  
 Dread and agony choked him  
 Like a brazen bull.  
 
-No doubt, the star left treacherous spaces;   
+The star left treacherous spaces;   
 The unknown triggered much of his fear.   
 Thoughts, to others illogical, in this web,  
-This thread of illusions, like spider’s venom   
+This thread of illusions, like the spider’s venom   
 Melted his guts for its feast.  
 
 II
 
 A rainbow touches tenderly   
 The mountain’s snowy peak.  
-And among heaven's silk  
+And in heaven's silk  
 Self-righteous men cackle  
 At a hopeful guest.  
 
@@ -88,7 +88,7 @@ Then she stretches her spine;
 She caresses her short, thick hair  
 While others nearby tattle.   
 
-There exists a star of solace;   
+There is a star of solace;   
 She thinks of it.  
 Now she’s in room № 3,  
 And a smile’s a gift among sisters.  
