@@ -31,7 +31,7 @@ This is his definition. However, the Webster’s dictionary interprets talent in
 
 Coyle criticizes the genetic predisposition, but he does not present any scientific results in this chapter. And was deep practice the only reason for the boost in flight abilities? Coyle mentions the political and economic pressures; flight accidents in storms and World War 2. He denies but does not evaluate the influence of innate, not genetic, factors, e.g. selective attention and intelligence (Stevens and Bevalier, 2012) or self-motivation.
 
-Another weakness becomes clear when reviewing the literature on similar aspects. A study by Lövden et. al. finds that in associative memory performance “age-group differences, and between-person differences among children and younger adults, increase as a function of extended adaptive practicing” (Lövden et. Al, 2012). Although the training procedure was not what Coyle describes as deep practice, distinctions in individual performance appear in this research, and Coyle does not consider it.
+Another weakness becomes clear when reviewing the literature on similar aspects. A study by Lövden et al. finds that in associative memory performance “age-group differences, and between-person differences among children and younger adults, increase as a function of extended adaptive practicing” (Lövden et al., 2012). Although the training procedure was not what Coyle describes as deep practice, distinctions in individual performance appear in this research, and Coyle does not consider it.
 
 “The Sweet Spot” would have gained considerable in sweetness, had Coyle discussed and compared the concepts of natural talent (genius) and deep practice on the same level.
 
@@ -43,7 +43,7 @@ Coyle, Daniel. “The Talent Code - Greatness isn’t born. It’s grown. Here�
 
 Kerouac, Jack. Ed. Ann Charters. “The Portable Jack Kerouac.”  London: Penguin, 1996. print
 
-Lövdén, Marten et.al. “Training-induced compensation versus magnification of individual differences in memory performance.” Frontiers in Human Neuroscience, 15 May 2012: 1-14. Print
+Lövdén, Marten et al. “Training-induced compensation versus magnification of individual differences in memory performance.” Frontiers in Human Neuroscience, 15 May 2012: 1-14. Print
 
 Stevens, Courtney and D. Bavelier. “The role of selective attention on academic foundations: A cognitive neuroscience perspective.” Dev Cogn Neurosci, 15 February 2012: 30–48. Print
 

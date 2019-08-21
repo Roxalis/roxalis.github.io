@@ -19,7 +19,7 @@ Peter Walter (Jefferey Cox) and Kazutoshi Mori independently discovered Ire1, a 
 
 In higher organisms Ire1, PERK and ATF6 are the only known signal pathway initiating factors to date. Their joint action establishes a balance in the ER by strengthening protein folding and by starting the removal of misfolded ER proteins. But Ire1, PERK and ATF6 also cause cell death. How these proteins regulate the cell fate dualism is poorly understood.
 
-Kazutoshi Mori and his team identified ATF6 in the late 1990s - believing it to be a single soluble gene activating factor.  When Mori et. al. later treated mammalian cells with the UPR-inducing substance Tunicamycin, levels of ATF6 decreased and a smaller fragment appeared. To their surprise, the blocking of overall protein synthesis showed that AFT6 splits into two proteins;  ATF6 degrades and as a result ATF6-N remains.
+Kazutoshi Mori and his team identified ATF6 in the late 1990s - believing it to be a single soluble gene activating factor.  When Mori el al. later treated mammalian cells with the UPR-inducing substance Tunicamycin, levels of ATF6 decreased and a smaller fragment appeared. To their surprise, the blocking of overall protein synthesis showed that AFT6 splits into two proteins;  ATF6 degrades and as a result ATF6-N remains.
 
 ATF6's amino acid composition was typical for membrane proteins: it included a water-repellent amino acid sequence and hinted at protein glycosylation. With this information the group tested cells treated with glycosylation-removing enzyme and with specific membrane protein releasing substances. Finally, they analyzed the cellular localization of stained ATF6 in comparison with other known proteins.
 
