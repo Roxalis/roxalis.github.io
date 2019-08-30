@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Precision Game
-excerpt: "Poetry"
+excerpt: "'Poetry'"
 tags: [experiments, fear, gender, love, poetry, Switzerland]
 author: 
 date: 11.06.2017
@@ -13,12 +13,10 @@ date: 11.06.2017
 
 From in-vivo study to in-vitro test:  
 I’m on a quest to aim for the hit  
-&#8212; a multitude.  
+&#8212; a multitude.    
 
-No lord in white will help.  
-
-I’m expensive. I mix matter,  
-Armed with a pipette and knowledge;  
+I’m expensive. I mix matter.  
+Armed with a pipette and knowledge  
 
 Let me unearth the blind spot  
 In one, in two, and three dimensions.  
