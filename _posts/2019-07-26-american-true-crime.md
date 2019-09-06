@@ -63,7 +63,7 @@ date: 26.07.2019
 
 [Explaining Hitler: The Search for the Origins of His Evil](https://www.goodreads.com/book/show/35455696-explaining-hitler?from_search=true). Ron Rosenbaum, Da Capo Press, 2014.
 
-**[In Cold Blood](https://www.goodreads.com/book/show/168642.In_Cold_Blood?from_search=true). Truman Capote, Vintage, 1994.**
+*[In Cold Blood](https://www.goodreads.com/book/show/168642.In_Cold_Blood?from_search=true). Truman Capote, Vintage, 1994.*
 
 [Murder in the Blue Mountains](https://www.goodreads.com/book/show/2735469-murder-in-the-blue-mountains?from_search=true). Robert Travers, Random House UK,1973.
 
