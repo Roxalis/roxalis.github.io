@@ -1,6 +1,6 @@
 ---
 layout: post
-title: American True Crime
+title: True Crime
 excerpt: "List"
 tags: [crime, literature, murder]
 author:
