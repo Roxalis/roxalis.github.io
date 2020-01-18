@@ -2,12 +2,11 @@
 layout: post
 title: Don't Panic
 excerpt: "Short Story"
-tags: []
 author:
 date: 28.10.2019
 ---
 
-The Autumn sun beamed its bright light onto Staten Island. Martin had to raise one of his hands to shield his eyes, as he could barely see anything above the sidewalk. It was a Sunday morning, and, after staying with his friend Jacob over the weekend, Martin had promised his mother he would be back home for lunch at noon. He ran to get the 11:23 o’clock bus and while Martin ran, the S57 bus passed him. The boy was nervous and sprinted as fast as he could since in case the boy missed the bus and came too late his parents would be furious. The bus stopped and a few people entered it while a Native American exited. He smiled at Martin. Then the bus sped away. “Oh no,” Martin cried out. “The day is ruined,” he thought and sat down onto a bench beside the bus stop, glanced to the ground, and kicked at the tiny stones lying to his feet.
+The Autumn sun beamed its bright light onto Staten Island. Martin had to raise one of his hands to shield his eyes, as he could barely see anything above the sidewalk. It was a Sunday morning, and, after staying with his friend Jacob over the weekend, Martin had promised his mother he would be back home for lunch at noon. He ran to get the 11:23 o’clock bus and while Martin ran, the S57 bus passed him. The boy was nervous and sprinted as fast as he could since in case the boy missed that bus and came too late his parents would be furious. The bus stopped and a few people entered it while a Native American exited. He smiled at Martin. Then the bus sped away. “Oh no,” Martin cried out. “The day is ruined,” he thought and sat down onto a bench beside the bus stop, glanced to the ground, and kicked at the tiny stones lying to his feet.
 
 “Want a ride?” a guy with sunglasses called out through the opened passenger window of a dark blue BMW. Martin got up and plodded to the car. 
 
@@ -17,7 +16,7 @@ The man lowered his sunglasses, and now Martin saw his incredibly blue eyes. “
 
 The man started the engine and Martin put on his seat belt. Inside the car it smelled of leather mixed with coffee and plastic. Martin looked around. Black leather covered the seats, and the manufacturer had made the dashboard of black skin. Everything was clean. The man, who Martin guessed to be in his forties, wore a shiny shirt with silvery light blue tie, black trousers, black mitts, and a large silver digital watch. “Are you engaged in sports?” the man asked while driving.
 
-“I play soccer at school.”
+“I play football at school.”
 
 “What’s your favorite position, attack or defense?”
 
