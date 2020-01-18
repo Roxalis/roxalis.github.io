@@ -3,7 +3,7 @@ layout: post
 title: Don't Panic
 excerpt: "Short Story"
 author:
-date: 28.10.2019
+date: 15.01.2020
 ---
 
 The Autumn sun beamed its bright light onto Staten Island. Martin had to raise one of his hands to shield his eyes, as he could barely see anything above the sidewalk. It was a Sunday morning, and, after staying with his friend Jacob over the weekend, Martin had promised his mother he would be back home for lunch at noon. He ran to get the 11:23 o’clock bus and while Martin ran, the S57 bus passed him. The boy was nervous and sprinted as fast as he could since in case the boy missed that bus and came too late his parents would be furious. The bus stopped and a few people entered it while a Native American exited. He smiled at Martin. Then the bus sped away. “Oh no,” Martin cried out. “The day is ruined,” he thought and sat down onto a bench beside the bus stop, glanced to the ground, and kicked at the tiny stones lying to his feet.
