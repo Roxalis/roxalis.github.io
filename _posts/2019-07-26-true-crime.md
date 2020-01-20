@@ -9,8 +9,7 @@ date: 26.07.2019
 
 ![intro pic](/assets/images/Cold-Nature-Forest.jpg)
 
-*"Murder is not just a crime of lust or violence. It becomes possession. They are part of you … [the victim] becomes a part of you, and you [two] are forever one … and the grounds where you kill them or leave them become sacred to you, and you will always be drawn back to them."*
-
+> "Murder is not just a crime of lust or violence. It becomes possession. They are part of you … [the victim] becomes a part of you, and you [two] are forever one … and the grounds where you kill them or leave them become sacred to you, and you will always be drawn back to them."
 &#8212; Ted Bundy
 
 ### Long Read Articles

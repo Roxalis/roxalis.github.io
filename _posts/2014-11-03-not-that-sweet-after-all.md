@@ -7,8 +7,7 @@ author:
 date: 03.11.2014
 ---
 
-*Geniuses can be scintillating and geniuses can be somber, but it’s that unescapable sorrowful depth that shines through — originality.*[^fn1]
-
+> Geniuses can be scintillating and geniuses can be somber, but it’s that unescapable sorrowful depth that shines through — originality.[^fn1]
 &#8212; Jack Kerouac, 1962
 
 Daniel Coyle sets himself a mission. He visits locations in the US, Brazil and other places where young people learn skills. In “chicken-wire Harvards”, places with low-quality training facilities that give birth to well-skilled people, he explores the processes of practice and learning. Coyle develops a theory of deep practice, which contradicts the idea of natural talent.

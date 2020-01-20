@@ -17,7 +17,6 @@ I’m on a quest to aim for the hit
 
 I’m expensive. I mix matter.  
 Armed with a pipette and knowledge  
-
 Let me unearth the blind spot  
 In one, in two, and three dimensions.  
 
