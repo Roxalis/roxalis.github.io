@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_ex
 title: Whistle And I'll Come To You (1968)
 excerpt: "Film"
 author: M. R. James
