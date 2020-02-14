@@ -34,11 +34,15 @@ The man started the engine and Martin put on his seat belt. Inside the car it sm
 
 “He was a hero.”
 
-“Well, you’ve got his color, kiddo, that’s for sure.” The man’s face turned serious. “Want to listen to some music?” After Martin’s approval the man turned on the radio. A radio host talked about a music festival in Brooklyn. The man pushed a few buttons and stopped as Barry Manilow sang Schubert’s Ave Maria. Out of the blue, the fellow started singing but it was grotesque. The man waved his arms about; he bent his head backward, closed his eyes, and opened his mouth in dramatization. Martin grew uneasy, giggled nervously, and studied the man’s wristwatch. It was now 11:32. Martin looked at the buildings, signs, street lamps, and pedestrians passing by. He then noticed that instead of driving straight on the man turned right onto Victory Boulevard. “The fastest way is over Bradley Avenue,” Martin suggested.
+“Well, you’ve got his color, kiddo, that’s for sure.” The man’s face turned serious. “Want to listen to some music?” 
+
+After Martin’s approval the man turned on the radio. A radio host talked about a music festival in Brooklyn. The man pushed a few buttons and stopped as Barry Manilow sang Schubert’s Ave Maria. Out of the blue, the fellow started singing but it was grotesque. The man waved his arms about; he bent his head backward, closed his eyes, and opened his mouth in dramatization. Martin grew uneasy, giggled nervously, and studied the man’s wristwatch. It was now 11:32. Martin looked at the buildings, signs, street lamps, and pedestrians passing by. He then noticed that instead of driving straight on the man turned right onto Victory Boulevard. 
+
+“The fastest way is over Bradley Avenue,” Martin suggested.
 
 “I know, but I want to show you something.” 
 
-The man grinned—showing his upper and lower teeth. He changed the radio channel to pop music and later turned left onto a narrow road heading into the Clove Lake Park. Beeches, birches, elms, maples, and oaks grew densely on both sides of the vehicle. The man steered the BMW through a curvature, then over a small bridge. After a few minutes he parked the car at a spot from where the two were able to look at the Saint Peter’s Cemetery on the right. “Nice quiet place, ain’t it?” The man did not wait for an answer. “Somewhere among those stones the bones of Forrest Baker rest. Have you heard of him, kiddo?” He took off his sunglasses and put them in his shirt’s side pocket.
+The man grinned—showing his upper and lower teeth. He changed the radio channel to pop music and later turned left onto a narrow road heading into the Clove Lake Park. Beeches, birches, elms, maples, and oaks grew densely on both sides of the vehicle. The man steered the BMW through a curvature, then over a small bridge. After a few minutes he parked the car at a spot from where the two were able to look at the Saint Peter’s Cemetery on the right. “Nice quiet place, ain’t it?” The man did not wait for an answer. “Somewhere among those stones the bones of Forrest Baker rest. Have you heard of him, kiddo?” He took off his sunglasses and put them in his shirt’s side-pocket.
 
 “No.”
 
