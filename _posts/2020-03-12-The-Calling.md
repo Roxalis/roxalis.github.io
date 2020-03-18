@@ -8,9 +8,7 @@ date: 12.03.2020
 
 I
 
-After completing his thoughts, wing commander Fawcet, a tall man in his forties, glanced up from the report, played with his moustache, and heaved a sigh. Then he got up from his desk and left his room. He walked down the hall to group captain Macintosh’s office where he knocked on the door and waited for an answer which came rather harshly in the captain’s deep voice.
-
-“Ah, the report! I’ll look into it soon enough,” said group captain Macintosh. “Now, we have to discuss the current situation. Central Command North has briefed me and ordered high alert. The situation is becoming more dangerous by the day. Like our British prime minister the president of the US has declined to discuss the vessel attack with the European Union any further. Instead, all divisions, and the air force in particular, are on high alert. It’s a dire situation, Fawcet!”
+After completing his thoughts, wing commander Fawcet, a tall man in his forties, glanced up from the report, played with his moustache, and heaved a sigh. Then he got up from his desk and left his room. He walked down the hall to group captain Macintosh’s office where he knocked on the door and waited for an answer which came rather harshly in the captain’s deep voice. “Ah, the report! I’ll look into it soon enough,” said group captain Macintosh. “Now, we have to discuss the current situation. Central Command North has briefed me and ordered high alert. The situation is becoming more dangerous by the day. Like our British prime minister the president of the US has declined to discuss the vessel attack with the European Union any further. Instead, all divisions, and the air force in particular, are on high alert. It’s a dire situation, Fawcet!”
 
 “I see. What are your orders, sir?”
 
@@ -48,7 +46,7 @@ III
 
 “Another two men are missing, sir, airman Linsdell and Sergeant Lovely. The airman from last night, his name is Aubrey, is under close observation and we are waiting for a medical report,” said squadron leader Hulls, who was standing in front of wing commander Fawcet.
 
-“Since when have the two men been missing and what are the facts?” commander Fawcet sat at his office table and glanced out of the window into the bright landscape waiting for Hulls answer.
+“Since when have the two men been missing and what are the facts?” Commander Fawcet sat at his office table and glanced out of the window into the bright landscape waiting for Hulls answer.
 
 “Sergeant Lovely, a good and decent and atop of that a well-respected man, supervised the checkup and general maintenance of aircraft yesterday. Some staff said he looked worried or sad.  He left the hangar at around five p.m.. Nobody spoke to him after he had discharged himself from duty. He never returned and was not seen by anybody. The second man is airman Linsdell, sir. He was missing during the routine drill at 6 a.m. this morning, his bunk was empty, and some clothes missing. He must have walked out of the barrack during the night or early morning hours. Sir, my men searched the base but found neither Sergeant Lovely nor Linsdell.”
 
