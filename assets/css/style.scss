@@ -3,6 +3,13 @@
 
 @import "jekyll-theme-minimal";
 
+/* lists without bullets */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
 /* Share buttons */
 .sharebuttons a {
   display: inline-block;
