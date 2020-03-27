@@ -1,77 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
   <loc>https://roxalis.github.io/</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2020/03/14/goldberg.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2020/03/14/goldberg-variations.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2020/03/12/The-Calling.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2020/03/12/The-Calling.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2020/02/14/The-Kiss.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2020/02/14/The-Kiss.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2020/01/15/Dont-Panic.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2020/01/15/Dont-Panic.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2019/08/14/whistle-and-I-will-come-to-you.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2019/08/14/whistle-and-I-will-come-to-you.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2019/07/26/true-crime.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2019/07/26/true-crime.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2019/01/20/Recessions.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2019/01/20/Recessions.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2017/06/11/the-precision-game.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2017/06/11/the-precision-game.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2017/03/10/a-letter-from-jefferson.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2017/03/10/a-letter-from-jefferson.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2015/10/05/machinery-that-creates-future.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2015/10/05/machinery-that-creates-future.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2014/11/03/not-that-sweet-after-all.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2014/11/03/not-that-sweet-after-all.html</loc>
 </url>
 <url>
-  <loc>https://roxalis.github.io/2014/08/16/subprime-mortgage-crisis.html</loc>
-  <lastmod>2020-03-18T17:35:54+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://roxalis.github.io/2014/08/16/subprime-mortgage-crisis.html</loc>
 </url>
-
-
 </urlset>
