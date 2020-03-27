@@ -2,7 +2,6 @@
 layout: post
 title: U.S. Recessions (1857 - 2018)
 excerpt: "Analysis"
-tags: [bubbles, recession, S&P]
 author:
 date: 20.01.2019
 ---

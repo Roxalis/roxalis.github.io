@@ -2,7 +2,6 @@
 layout: post
 title: A letter from Jefferson
 excerpt: "Prose"
-tags: [horse flies, Florida]
 author:
 date: 10.03.2017
 ---

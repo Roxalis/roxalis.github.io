@@ -3,7 +3,6 @@ layout: post_ex
 title: Goldberg Variations played by Eunice Norton (1942)
 excerpt: "Music"
 author: Johann S. Bach
-tags: [music]
 date: 14.03.2020
 ---
 

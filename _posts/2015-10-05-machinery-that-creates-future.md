@@ -2,7 +2,6 @@
 layout: post
 title: "Machinery to create future"
 excerpt: "Essay"
-tags: [2008, financial crisis, real-estate]
 author:
 date: 05.10.2015
 ---

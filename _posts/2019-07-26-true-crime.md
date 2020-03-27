@@ -2,7 +2,6 @@
 layout: post
 title: True Crime
 excerpt: "List"
-tags: [crime, literature, murder]
 author:
 date: 26.07.2019
 ---
