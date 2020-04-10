@@ -16,6 +16,8 @@ date: 26.07.2019
 
 [Angel Of Death](https://www.texasmonthly.com/articles/angel-of-death/). Skip Hollandsworth, Texas Monthly, 2007.
 
+[Butcher's dozen](https://harpers.org/archive/1949/11/butchers-dozen/). John Bartlow Martin, Harper's Magazine, 1949.
+
 [Capital Murder](https://www.texasmonthly.com/articles/capital-murder/). Skip Hollandsworth, Texas Monthly, 2000.
 
 [Center of the Universe](http://www.orangecoast.com/features/center-of-the-universe/). Jay Roberts, Orange Coast, 2013.
