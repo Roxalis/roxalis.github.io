@@ -20,6 +20,9 @@ date: 26.07.2019
 
 [Butcher's dozen](https://harpers.org/archive/1949/11/butchers-dozen/). John B. Martin, Harper's Magazine, 1949.
 
+[California Inquest](https://harpers.org/archive/1974/05/california-inquest/). Barry Farrell, Harper's Magazine, 1974.
+
+
 [Capital Murder](https://www.texasmonthly.com/articles/capital-murder/). Skip Hollandsworth, Texas Monthly, 2000.
 
 [Center of the Universe](http://www.orangecoast.com/features/center-of-the-universe/). Jay Roberts, Orange Coast, 2013.
@@ -58,7 +61,7 @@ date: 26.07.2019
 
 [Who Is The Boy In The Box?](https://www.phillymag.com/articles/2006/05/15/who-is-the-boy-in-the-box-part-one/) Admin, Philadelphia, 2006.
 
-[Who Killed Estelle Carey?](https://harpers.org/archive/1944/06/who-killed-estelle-carey-the-murder-that-lifted-the-veil-on-the-syndicate/). John B. Martin, Harper's Magazine, 1944.
+[Who Killed Estelle Carey?](https://harpers.org/archive/1944/06/who-killed-estelle-carey-the-murder-that-lifted-the-veil-on-the-syndicate/) John B. Martin, Harper's Magazine, 1944.
 
 ### Books
 
