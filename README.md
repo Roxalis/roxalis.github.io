@@ -1,4 +1,4 @@
-<span style="display:block; height: 10px;"></span>
+<span style="display:block; height: 5px;"></span>
 # Welcome to my blog
 
 <ul>
