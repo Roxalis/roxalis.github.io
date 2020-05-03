@@ -4,10 +4,26 @@
 @import "jekyll-theme-minimal";
 
 /* fonts */
+h1 {
+  font-family: Gentium, serif;
+}
+
+h2 {
+  font-family: Gentium, serif;
+}
+
+h3 {
+  font-family: Gentium, serif;
+}
+
+p {
+  font-family: Gentium, serif;
+}
 
 /* lists without bullets */
 ul {
   font-family: Gentium, serif;
+  font-size: 14pt;
   list-style-type: none;
   padding: 0;
   margin: 0;
