@@ -8,7 +8,7 @@ date: 26.07.2019
 
 ![intro pic](/assets/images/Cold-Nature-Forest.jpg)
 
-### Long Read Articles
+## Long Read Articles
 
 [A Cold Case](https://www.newyorker.com/magazine/2000/02/14/a-cold-case). Philip Gourevitch, The New Yorker, 2000.
 
@@ -63,7 +63,7 @@ date: 26.07.2019
 
 [Who Killed Estelle Carey?](https://harpers.org/archive/1944/06/who-killed-estelle-carey-the-murder-that-lifted-the-veil-on-the-syndicate/) John B. Martin, Harper's Magazine, 1944.
 
-### Books
+## Books
 
 [A Wilderness of Error: The Trials of Jeffrey MacDonald](https://www.goodreads.com/book/show/13503531-a-wilderness-of-error?from_search=true). Errol Morris, Penguin Books, 2014.
 
