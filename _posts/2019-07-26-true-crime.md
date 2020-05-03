@@ -85,6 +85,8 @@ date: 26.07.2019
 
 [The Constance Fisher Tragedy](https://www.goodreads.com/book/show/12955741-the-constance-fisher-tragedy?from_search=true). Bob Briggs, AuthorHouse Publishing, 2011.
 
+[The Executioner's Song](https://www.goodreads.com/book/show/12468.The_Executioner_s_Song). Norman Mailer, Grand Central Publishing, 2012.
+
 [The Innocent Man: Murder and Injustice in a Small Town](https://www.goodreads.com/book/show/5345.The_Innocent_Man?from_search=true). John Grisham, Arrow, 2018.
 
 [True Crime: An American Anthology](https://www.goodreads.com/book/show/3590446-true-crime?from_search=true). Harold Schechter, Library of America, 2008.
