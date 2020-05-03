@@ -1,7 +1,7 @@
 <span style="display:block; height: 1px;"></span>
 # Welcome To My Blog
 
-<ul class="ex">
+<ul class="ex1">
   {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
     <li>
