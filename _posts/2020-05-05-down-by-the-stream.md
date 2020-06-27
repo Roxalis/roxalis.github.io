@@ -68,14 +68,15 @@ Faith was still upset. “Oh, yes, a lot has changed.”
 “You had all these affairs, not me!”  
 “They didn’t mean much to me, you know that.”  
 The waitress came and brought the food and coffee. Gary paid and gave the woman a large extra tip. Again she beamed, the smile that softens any man’s heart.  
-“Let’s get engaged! Or married, let’s skip the engagement.”
+“Let’s get engaged! Or married, let’s skip the engagement.”  
 “Whoa, babe. You’re too fast here.”  
 “Too fast? What do you mean, too fast? You don’t love me anymore.” Faith had raised her voice. The man at the counter turned around and watched with anticipation. His eyes were shining. “Maybe he was a truck driver,” Gary thought.  
 “I love you, Faith. I always have.”  
 “Then marry me!”   
 “Maybe…”   
 “Oh, come on.”   
-They ate their burgers and drank the coffee in silence. Expecting more action, the ‘truck driver’ had turned back towards the counter in obvious disappointment. A man entered the restaurant. He was too warmly dressed for the hot weather: dirty brown cord pants, large white sneakers, and a baggy blue and white sports jacket. He went straight to the man at the counter and said in a high-pitched voice, “Hey sir, I’m travelin’to LA, can ya take me to Sacramento?”  
+They ate their burgers and drank the coffee in silence. Expecting more action, the ‘truck driver’ had turned back towards the counter in obvious disappointment.  
+A man entered the restaurant. He was too warmly dressed for the hot weather: dirty brown cord pants, large white sneakers, and a baggy blue and white sports jacket. He went straight to the man at the counter and said in a high-pitched voice, “Hey sir, I’m travelin’to LA, can ya take me to Sacramento?”  
 “No *sir*, I can *not*,” the ‘truck driver’ replied.  
 Then the fellow walked to the family and asked for a ride. The parents ignored the man. He turned around, glared at Gary, and came towards the couple.
 
@@ -99,7 +100,7 @@ After a few miles of a quiet drive Leonard asked, “Where’re ya heading?” H
 “There’re reasons.”  
 After a moment of silence Faith said, “We’re from LA. I love LA.”  
 “It depends where ya’r in LA, does’n it? I mean, who’d want to live in Skid Row. If I’d the choice, I would live somewhere else. All the lousy fucking hobos. Somebody should get rid’of’em.”  
-“That’s cruel,” Faith said and turned around and put her feet back onto the dashboard. Through the rear mirror Gary had watched Leonard talk. He felt disgusted by the man in the back. For the next two hours they remained silent. In Reno, Faith took over driving. Leonard had no license to drive but offered it, anyway. Gary and Faith declined and wished to take Leonard to Sacramento as soon as possible.  
+“That’s cruel,” Faith said and turned around and put her feet back onto the dashboard. Through the rear mirror Gary had watched Leonard talk. He felt disgusted by the man in the back. For the next two hours they remained silent. Gary and Faith wished to take Leonard to Sacramento as soon as possible.  
 “What do you do for a living?”, Gary asked.  
 “How old is your child,” Leonard said.  
 “Nearly eight months,” Faith responded with aversion.  
@@ -117,7 +118,7 @@ He laughed again.
 “We don’t take drugs,” they replied at the same time.  
 “Pity.”   
 Leonard fell into a long silence. Faith turned on the radio for some music and the news. Nothing in particular had happened in the world and the music had a soothing effect on Faith. Her dislike for Leonard had increased. Both Gary and Faith had looked at each other questioningly. The fact that Leonard would soon depart in Sacramento and they would be alone again comforted both.  
-Reflected upon Leonard's eyes were the shapes and colors near the road, now intermixed into lines that ran parallel to the vehicle as he focused on one point outside the window. A feeling of empowerment rose in him and filled the emptiness. Now, he felt a little less worthless. From that day on his life would change, he decided, and theirs, too.
+Reflected upon Leonard's eyes were the shapes and colors near the road, now intermixed into lines that ran parallel to the vehicle as he focused on one point outside the window. A feeling of empowerment rose in him and filled the emptiness. Now, he felt a little less worthless. From that day on his life would change, he decided, and theirs, too.  
 In Sacramento Gary asked Leonard where he wanted to get out.  
 “Take Interstate 5 up north.”  
 “North?”  
