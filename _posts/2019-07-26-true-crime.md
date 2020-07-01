@@ -73,6 +73,8 @@ date: 26.07.2019
 
 [In Cold Blood](https://www.goodreads.com/book/show/168642.In_Cold_Blood?from_search=true). Truman Capote, Vintage, 1994.
 
+[Magnetized](https://www.goodreads.com/book/show/48577217-magnetized?from_search=true&from_srp=true&qid=2BAni95Hlu&rank=1). Carlos Busqued, Catapult, 2020.
+
 [Murder in the Blue Mountains](https://www.goodreads.com/book/show/2735469-murder-in-the-blue-mountains?from_search=true). Robert Travers, Random House UK,1973.
 
 [My Friend Dahmer](https://www.goodreads.com/book/show/12959045-my-friend-dahmer?from_search=true).  Derf Backderf, Abrams & Chronicle Books, 2012.
