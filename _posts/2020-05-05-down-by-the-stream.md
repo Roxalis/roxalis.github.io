@@ -6,36 +6,39 @@ author:
 date: 05.05.2020
 ---
 
-The black Ford moved at ninety-three miles an hour along Highway 80. Outside the vehicle the vast Nevada desert stretched along the horizon. Inside it was hot and the air was stale. Gary, the driver, watched the road and smiled while Faith, a small and charming girl with a sour expression, sat next to him with her feet on the dash. For the last hour they had talked little. Suddenly it burst out of Faith like an erupting volcano.  
-“You did it again!” Faith cried.  
+A black Ford moved at ninety-three miles an hour along Highway 80, passing the vast Nevada desert. The outside heat had penetrated the inside of the car and the air was stale. Gary, the driver, watched the road smiling. Next to him sat Faith with her feet on the dash, a small and pretty girl with a sour expression on her face. For the last hour they had talked little, but suddenly it burst out of Faith. A vulcano erupted.   
+“You did it again!”  
 “I did what?”  
 “You ruined everything!”  
 “What are you talking about?”  
-“You know what it’s about.” Tears dropped from her cheeks.  
-Gary was angry. The needle on the speedometer went to zero and the car stopped beside the highway. “What’s your problem, babe?”  
+“You know what it’s about.”   
+Faiths eyes filled with tears. The needle on the speedometer went to zero; the car stopped beside the highway.   
+“What’s your problem, babe?”  
 “Don’t call me babe. I had it. You did it again. I had it!”  
 “What the fuck are you talking about?”  
-“Oh, really! What’s her name…Kelli?”  
+“Oh, really! What’s her name? Kelli.”  
 “So what?”  
-“You and Kelli!”  
-“No, no, no.” Gary wiggled his finger in front of Faith’s face. She laughed hysterically.  
-“You're such a bad fucking lier!”  
+“You and Kelli.”  
+“Nah...”  
+Faith laughed hysterically. “You're such a bad fucking lier!”  
 “Babe, I promise! There’s nothing’appening between me and Kelli.”  
 “I know, Gary! I fucking know all of it. Tom told me.”  
-A bright smile crossed Gary’s face. He unfastened his seatbelt and then slapped Faith’s face with his left hand. She cried out loud, moved her head to the right, and raised her arms to protect her pretty face. Smeared make-up had turned it into misery. And Gary? Gary changed the gear, drove the vehicle back onto the road, and mumbled “Nothing happened.”
+A bright smile crossed Gary’s face. He unfastened his seatbelt and then slapped Faith with his left hand. She cried out loud, moved her head to the right, and raised her arms to protect herself. Smeared make-up had turned her face into misery. Gary changed the gear and drove the vehicle back onto the road.  
+“Nothing happened,” he mumbled.
 
-Under the shadows of the pine tree forest two policemen moved effortlessly up a hill. Both men had backpacks, and the officer was carrying a .22 rifle over his shoulder. They were of similar small and heavy build and seen from afar one could have identified them as twins were it not for sergeant Richard Miller’s large grey moustache and the overall difference in age. That morning was the beginning of a warm summer day and in the shadows the dry air was cool and inhabited by mosquitoes, black flies, and other flying insects. The air was so clean that a smell was hardly detectable, only the faint scent of soil and pine aroma.  
+Under the shadows of a pine tree forest two policemen moved effortlessly up a hill. Both men had backpacks and the officer was carrying a .22 rifle over his shoulder. They were of similar small and heavy build and seen from afar one could have identified them as twins were it not for sergeant Richard Miller’s large grey moustache and the overall difference in age.  
+That morning was the beginning of a warm summer day and in the shadows the dry air was cool and inhabited by mosquitoes, black flies, and other flying insects. The air was so clean that a smell was hardly detectable, only the faint scent of soil and pine aroma.  
 “What’s your wife Tracy doing this weekend?”, Richard Miller asked.  
-“She’ll do yoga with her friend Carrol.”  
+“She’ll see her friend Carrol.”  
 “I met Carrol in the parking lot of Foster’s in Sweet Home the other day.”  
 “There is also the party at Carmen Burns in 42nd Avenue, so she’ll have a great time.”  
 “You mean, compared to us—ha—ha!”  
 “No, we’ll have a great time, too, dad.”  
 “An exciting adventure!”  
 Richard Miller had been a police officer for twenty-two years and has become a sergeant ten years ago. His son, Bob Miller, went to police academy and then started to work at the same police station. That was three years ago. Before deciding to become a police officer, Bob had been a plumber at the age of twenty-three and had had a few odd jobs. He drank too much and going to the police academy has helped him straighten out his life.   
-They stopped for a moment while sergeant Richard Miller checked his GPS, searched their position on a map, and said,  “We’re not far off the place Mr. Sexton talked about.” He pointed in one direction. “It’s up this way and behind the hill near a stream.” Officer Bob Miller followed him further up the hill. Suddenly he put his hand onto his father’s shoulder and gave him a sign to crouch.
+They stopped for a moment while sergeant Richard Miller checked his GPS, searched their position on a map, and said,  “We’re not far off the place Mr. Sexton talked about.” He pointed in one direction. “It’s up this way and behind the hill near a stream.” Officer Bob Miller followed along further up the hill. Suddenly he put his hand onto his father’s shoulder and gave him a sign to crouch.
 
-Gary and Faith had known each other since childhood. They had been friends in elementary school, but after that their paths diverged until many years later they met on a party in the suburbs of Los Angeles. They fell for each other. Both were attractive and young and optimistic. Faith loved Gary’s silly humor and Gary loved Faith’s beautiful smile. There were many wonderful reasons for an engagement, but Gary and Faith wanted to take things slowly. They moved into a small flat in downtown LA where they lived together for five years. Then Faith got a job offer in Salt Lake City — an offer she could not resist — and, after moving to Salt Lake, the relationship grew dim. Gary found a job in his profession as a car mechanic, but Faith earned twice as much as a secretary for the company that sold metal detectors. Gary was envious. And Gary — being an attractive youthful man with a solid build — grew interested in other women. However, Faith could not let go of Gary, and neither could Gary separate from Faith.  
+Gary and Faith had known each other since childhood. They had been friends in elementary school, but after that their paths diverged until many years later they met on a party in the suburbs of Los Angeles. They fell for each other. Both were attractive, young and optimistic. Faith loved Gary’s silly humor and Gary loved Faith’s beautiful smile. There were many wonderful reasons for an engagement, but Gary and Faith wanted to take things slowly. They moved into a small flat in downtown LA where they lived together for five years. Then Faith got a job offer in Salt Lake City — an offer she could not resist — and, after moving to Salt Lake, the relationship grew dim. Gary found a job in his profession as a car mechanic, but Faith earned twice as much as a secretary for the company that sold metal detectors. Gary was envious. And Gary — being an attractive youthful man with a solid build — grew interested in other women. However, Faith could not let go of Gary, and neither could Gary separate from Faith.  
 “I want you to turn around, Gary.”  
 “No, I promised Jill and her family we will visit.”  
 “But look at me! I can’t show up like this and I’m leaving you, Gary,” she cried.  
