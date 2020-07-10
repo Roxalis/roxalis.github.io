@@ -6,7 +6,7 @@ author:
 date: 05.05.2020
 ---
 
-A black Ford moved at ninety-three miles an hour along Highway 80, passing the vast Nevada desert. The outside heat had penetrated the inside of the car and the air was stale. Gary, the driver, watched the road smiling. Next to him sat Faith with her feet on the dash, a small and pretty girl with a sour expression on her face. For the last hour they had talked little, but suddenly it burst out of Faith. A vulcano erupted.   
+A black Ford moved at ninety-three miles an hour along Highway 80, passing the vast Nevada desert. The outside heat had penetrated the inside of the car and the air was stale. Gary, the driver, watched the road and smiled. Next to him sat Faith with her feet on the dash, a small and pretty girl with a sour expression on her face. For the last hour they had talked little, but suddenly it burst out of Faith. A volcano erupted.   
 “You did it again!”  
 “I did what?”  
 “You ruined everything!”  
@@ -30,7 +30,7 @@ Under the shadows of a pine tree forest two policemen moved effortlessly up a hi
 That morning was the beginning of a warm summer day and in the shadows the dry air was cool and inhabited by mosquitoes, black flies, and other flying insects. The air was so clean that a smell was hardly detectable, only the faint scent of soil and pine aroma.  
 “What’s your wife Tracy doing this weekend?”, Richard Miller asked.  
 “She’ll see her friend Carrol.”  
-“I met Carrol in the parking lot of Foster’s in Sweet Home the other day.”  
+“I met Carrol in a parking lot of Foster’s in Sweet Home the other day.”  
 “There is also the party at Carmen Burns in 42nd Avenue, so she’ll have a great time.”  
 “You mean, compared to us—ha—ha!”  
 “No, we’ll have a great time, too, dad.”  
@@ -48,21 +48,21 @@ Gary and Faith had known each other since childhood. They had been friends in el
 “You’re crazy!”  
 Gary concentrated on the road and speed of the vehicle. Then he noticed his thirst.  
 “We need something to drink. I’ll take the next truck stop where you can clean your face while I fill’er up.”  
-They reached a TA truck stop with a petrol station, a shopping mall, and a family restaurant. Gary parked the car in front of one of the gasoline pumps and both got out of the vehicle. Faith walked to the bathroom as fast as she could, but this did not prevent a truck driver from being sympathetic. “Look at you. Are you ok?”, he asked. Faith walked on and ignored the man. By the time Gary had finished filling the tank and paying for the gasoline, Faith had cleaned her face and put on make-up. They then decided to have something to eat, and so he drove in front of the restaurant and parked the car.
+They reached a TA truck stop with a petrol station, a shopping mall, and a family restaurant. Gary parked the car in front of one of the gasoline pumps and they got out of the vehicle. Faith walked to the bathroom as fast as she could, but this did not prevent a truck driver from being sympathetic. “Look at you. Are you ok?”, he asked. Faith walked on and ignored the man. By the time Gary had finished filling the tank and paying for the gasoline, Faith had cleaned her face and put on make-up. They then decided to have something to eat.
 
 “Is it Big Foot?”, Richard Miller whispered.  
 Bob Miller raised his rifle and aimed for something, but his father got hold of the barrel and pulled it to the ground.   
 “What in God’s name are you doing, son?”  
-“It’s a deer! There, look,” and he pointed into the direction of a large stag.  
+“It’s a deer! There, look,” and Bob Miller pointed into the direction of a large stag.  
 “And what will you do with it once you successfully killed it? Leave it to rot?”  
 “We could cut it up and take a few pieces home, dad.”  
 “That’s not our job. We’re not here for hunting game. Mr. Sexton, remember?” Richard Miller touched Bob’s shoulder.  
 Bob Miller was disappointed and his more experienced father sympathetic, but Richard Miller knew to set the right priorities and their goal was to find the place that had unsettled Mr. Sexton on his hunting spree two days ago. He had called the police station and had talked to Richard Miller in a shaky voice, very unlike Mr. Sexton. Richard Miller had visited and questioned him about what he had seen, but it was too terrible to describe and it needed professional attention, Mr. Sexton had said. That was all Richard Miller and his son knew.  
-Bob Miller reluctantly followed his father up the hill, and the stag disappeared. They reached the peak of the hill where they had their breakfast. The view from up there was immense and beautiful; trees as far as one could see and a blue sky without a cloud. A slight haze covered the Blue Mountains in the far north-east. After they had eaten their sandwiches, they walked down the hill towards the valley, a place they dreaded, and father and son remained silent in anticipation of what they would discover down in the valley which stretched from east to west. They came upon an extensive field of grass and the stream that Richard Miller had mentioned. To Bob Miller, the water seemed like an invisible barrier. They crossed the stream and walked into the field.
+Bob Miller reluctantly followed his father up the hill. The stag disappeared. They reached the peak of the hill where they had their breakfast. The view from up there was immense and beautiful; trees as far as one could see and a blue sky without a cloud. A slight haze covered the Blue Mountains in the far north-east. After they had eaten their sandwiches, they walked down the hill towards the valley, a place they dreaded, and father and son remained silent in anticipation of what they would discover down in the valley. They came upon an extensive field of grass and the stream that Richard Miller had mentioned. To Bob Miller, the water seemed like an invisible barrier. They crossed the stream and walked into the field.
 
 Gary and Faith entered the restaurant and took a seat next to the windows. The restaurant was empty except for a couple with two children and a man at the counter. The waitress, a corpulent woman with a big smile, came to take the order.   
 “What can I bring you?”  
-“Two burgers with fries and coffee, please,” Faith responded. After the waitress had left Faith said to Gary, “We need to talk.”  
+“Two burgers with fries and coffee, please,” Faith responded. After the waitress had left, Faith said to Gary, “We need to talk.”  
 “Talk about what?”  
 “Us?”  
 “What’s there to talk about? Nothing has changed.”  
@@ -73,7 +73,7 @@ Faith was still upset. “Oh, yes, a lot has changed.”
 The waitress came and brought the food and coffee. Gary paid and gave the woman a large extra tip. Again she beamed, the smile that softens any man’s heart.  
 “Let’s get engaged! Or married, let’s skip the engagement.”  
 “Whoa, babe. You’re too fast here.”  
-“Too fast? What do you mean, too fast? You don’t love me anymore.” Faith had raised her voice. The man at the counter turned around and watched with anticipation. His eyes were shining. “Maybe he was a truck driver,” Gary thought.  
+“Too fast? What do you mean, too fast? You don’t love me anymore.” Faith had raised her voice. The man at the counter turned around and watched with anticipation. His eyes were shining. “Maybe a truck driver,” Gary thought.  
 “I love you, Faith. I always have.”  
 “Then marry me!”   
 “Maybe…”   
@@ -89,7 +89,7 @@ Suddenly the wind changed, and the air filled with a very slight stench. The Mil
 “Oh no,” Richard Miller said and grabbed his son’s arm.   
 “Stay here!”  
 “No, dad. I want to see.”   
-They moved nearer and slowly realized what they had discovered. In front of them lay two decomposed bodies — skeletons. Richard Miller inspected the dead thoroughly. The left skeleton was fully dressed with men’s clothing, the other smaller person may have been naked at the time of death and something had stretched the lower body parts in a near right angle to the other skeleton. Richard Miller identified a hole in each skull. “Shot,” he mumbled. From his backpack he took a pair of plastic gloves, a tape recorder, and a folding rule. “Both holes, the left skull fractured, are probably of small caliber, maybe nine millimetre,” he said into the recorder. There was no jewelry near the remains. Then the sergeant put on the plastic gloves and searched the pockets of the jeans and shirt. He found 25 cents and a lighter. As he wanted to be as thorough as possible, he pulled the shirt towards the skull. There was a purse lying between pelvis and first rib. “There’s no weapon here. Maybe the suspect searched the dead body and threw or lay the purse back onto the body,” Richard Miller told his son who probed the surrounding area. Inside the purse were no bills, but the sergeant found a picture of a young woman. “Maybe the deceased on the right,” Richard Miller thought. Then he pulled out a driver’s license. Gary Glass. While Richard Miller put the purse with the coins and lighter into a plastic bag, Bob Miller, who was standing near the forest, called for him. Richard Miller walked over to his son and looked down at the remains of an infant. “Savaged by animals,” Richard Miller concluded.
+They moved nearer and slowly realized what they had discovered. In front of them lay two decomposed bodies — skeletons. Richard Miller inspected the dead thoroughly. The left skeleton was fully dressed with men’s clothing, the other smaller person may have been naked at the time of death and something had stretched the lower body parts in a near right angle to the other skeleton. Richard Miller identified a hole in each skull. “Shot,” he mumbled. From his backpack he took a pair of plastic gloves, a tape recorder, and a folding rule. “Both holes, the left skull fractured, are probably of small caliber, maybe nine millimetre,” he said into the recorder. There was no jewelry near the remains. Then the sergeant put on the plastic gloves and searched the pockets of the jeans and shirt. He found 25 cents and a lighter. As he wanted to be as thorough as possible, he pulled the shirt towards the skull. There was a purse lying between pelvis and first rib. “There’s no weapon here. Maybe the suspect searched the dead body and threw or lay the purse back onto the body,” Richard Miller said. His son probed the surrounding area. Inside the purse were no bills, but the sergeant found a picture of a young woman. “Maybe the deceased on the right,” Richard Miller thought. Then he pulled out a driver’s license with the name Gary Glass. While Richard Miller put the purse with the coins and lighter into a plastic bag, Bob Miller, who was standing near the forest, called for him. Richard Miller walked over to his son and looked down at the remains of an infant. “Savaged by animals,” Richard Miller concluded.
 
 His name was Leonard; a tall and heavy man in his end thirties with a slender face, thin lips and protruding eyes. With his appearance disheveled and intimidating, he invoked some unease in Faith and Gary. First Gary was hesitant to take him to Sacramento, but they concurred when Leonard offered to pay for the gasoline and provide drink and food. Before the three continued their ride Leonard went to the shopping mall and bought the provisions.  
 After a few miles of a quiet drive Leonard asked, “Where’re ya heading?” He was in the back and Faith sat beside Gary who was driving.  
