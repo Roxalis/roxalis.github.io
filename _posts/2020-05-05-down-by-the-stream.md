@@ -92,9 +92,9 @@ Suddenly the wind changed, and the air filled with a very slight stench. The Mil
 They moved nearer and slowly realized what they had discovered. In front of them lay two decomposed bodies — skeletons. Richard Miller inspected the dead thoroughly. The left skeleton was fully dressed with men’s clothing, the other smaller person may have been naked at the time of death and something had stretched the lower body parts in a near right angle to the other skeleton. Richard Miller identified a hole in each skull. “Shot,” he mumbled. From his backpack he took a pair of plastic gloves, a tape recorder, and a folding rule. “Both holes, the left skull fractured, are probably of small caliber, maybe nine millimetre,” he said into the recorder. There was no jewelry near the remains. Then the sergeant put on the plastic gloves and searched the pockets of the jeans and shirt. He found 25 cents and a lighter. As he wanted to be as thorough as possible, he pulled the shirt towards the skull. There was a purse lying between pelvis and first rib. “There’s no weapon here. Maybe the suspect searched the dead body and threw or lay the purse back onto the body,” Richard Miller said. His son probed the surrounding area. Inside the purse were no bills, but the sergeant found a picture of a young woman. “Maybe the deceased on the right,” Richard Miller thought. Then he pulled out a driver’s license with the name Gary Glass. While Richard Miller put the purse with the coins and lighter into a plastic bag, Bob Miller, who was standing near the forest, called for him. Richard Miller walked over to his son and looked down at the remains of an infant. “Savaged by animals,” Richard Miller concluded.
 
 His name was Leonard; a tall and heavy man in his end thirties with a slender face, thin lips and protruding eyes. With his appearance disheveled and intimidating, he invoked some unease in Faith and Gary. First Gary was hesitant to take him to Sacramento, but they concurred when Leonard offered to pay for the gasoline and provide drink and food. Before the three continued their ride Leonard went to the shopping mall and bought the provisions.  
-After a few miles of a quiet drive Leonard asked, “Where’re ya heading?” He was in the back and Faith sat beside Gary who was driving.  
-“Santa Rosa,” Faith said.  
-“And then we’ll stay on the west coast for the weekend,” Gary added.  
+After a few miles of a quiet drive Leonard on the backseat asked, “Where’re ya heading?”  
+“Santa Rosa,” said Faith. 
+“And then we’ll stay on the west coast for the weekend,” Gary who was driving added.  
 “With friends,” Faith remarked.  
 “Sounds great.”  
 “Where are you from?”, Faith asked.  
@@ -103,7 +103,7 @@ After a few miles of a quiet drive Leonard asked, “Where’re ya heading?” H
 “There’re reasons.”  
 After a moment of silence Faith said, “We’re from LA. I love LA.”  
 “It depends where ya’r in LA, does’n it? I mean, who’d want to live in Skid Row. If I’d the choice, I would live somewhere else. All the lousy fucking hobos. Somebody should get rid’of’em.”  
-“That’s cruel,” Faith said and turned around and put her feet back onto the dashboard. Through the rear mirror Gary had watched Leonard talk. He felt disgusted by the man in the back. For the next two hours they remained silent. Gary and Faith wished to take Leonard to Sacramento as soon as possible.  
+“That’s cruel,” Faith said and turned around and put her feet back onto the dashboard. Through the rear mirror Gary had watched Leonard talk. He felt disgusted by the man. For the next two hours they remained silent. Gary and Faith wished to take Leonard to Sacramento as soon as possible.  
 “What do you do for a living?”, Gary asked.  
 “How old is your child,” Leonard said.  
 “Nearly eight months,” Faith responded with aversion.  
@@ -121,7 +121,7 @@ He laughed again.
 “We don’t take drugs,” they replied at the same time.  
 “Pity.”   
 Leonard fell into a long silence. Faith turned on the radio for some music and the news. Nothing in particular had happened in the world and the music had a soothing effect on Faith. Her dislike for Leonard had increased. Both Gary and Faith had looked at each other questioningly. The fact that Leonard would soon depart in Sacramento and they would be alone again comforted both.  
-Reflected upon Leonard's eyes were the shapes and colors near the road, now intermixed into lines that ran parallel to the vehicle as he focused on one point outside the window. A feeling of empowerment rose in him and filled the emptiness. Now, he felt a little less worthless. From that day on his life would change, he decided, and theirs, too.  
+Reflected upon Leonard's eyes were the shapes and colors near the road, now intermixed into lines that ran parallel to the vehicle as he focused on one point outside the window. A feeling of empowerment rose in him and filled the emptiness. Now he felt a little less worthless. From that day on his life would change, he decided, and theirs, too.  
 In Sacramento Gary asked Leonard where he wanted to get out.  
 “Take Interstate 5 up north.”  
 “North?”  
@@ -130,5 +130,5 @@ In Sacramento Gary asked Leonard where he wanted to get out.
 “I changed my mind. We’ll be going to Seattle.”  
 “No,” said Gary and halted the car next to the pedestrian. In that moment Leonard pulled the pistol from his coat, a 9mm Sig P226, and pointed it against Gary’s neck.  
 “I told ya to drive onto Interstate 5, mister.”  
-“He’s got a gun, Gary!” Faith cried out.  
-Gary was in a state of shock, but after a few seconds he realized that both their lives were at stake and he followed Leonards instruction. Gary loved Faith and the baby more than anything in his life, so he drove the black Ford onto the highway up north towards Seattle. “We’ll take Leonard to Seattle and then be safe,” Gary thought. But about half way Leonard decided to get rid of them and would take the car alone to Seattle. He told them he knew a small hut in the woods where he would tie them up and lock them in. It would take them a few hours to escape, but they would live. Gary parked the car on a small dirt road in the western woods of Oregon state and the three walked about one and a half miles into the forest. They reached a valley near a stream on that Friday morning in autumn. And there Leonard shot Gary and told Faith to take off her clothes. He raped her ferociously. Ended her pain with a shot in the head. Leonard carried Gary to where Faith was lying and left. Back at the car, he drove to a small and ramshackle house in Seattle and killed his parents. Then he pulled the trigger one last time.
+“He’s got a gun, Gary!” Faith cried.  
+Gary was in a state of shock, but after a few seconds he realized that both their lives were at stake and he followed Leonards instruction. Gary loved Faith and the baby more than anything in his life, so he drove the black Ford onto the highway up north towards Seattle. “We’ll take Leonard to Seattle and then be safe,” Gary thought. But about half way Leonard decided to get rid of them and would take the car alone to Seattle. He told them he knew a small hut in the woods where he would tie them up and lock them in. It would take them a few hours to escape, but they would live. Gary parked the car on a small dirt road in the western woods of Oregon state and the three walked about one and a half miles into the forest. They reached a valley near a stream on that Friday morning. And there Leonard did what he thought he had to do. Back at the car, he drove to a small and ramshackle house in Seattle and killed his parents. Then he pulled the trigger one last time and ended what was left of his life.
