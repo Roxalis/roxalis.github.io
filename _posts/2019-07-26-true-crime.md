@@ -37,6 +37,8 @@ date: 26.07.2019
 
 [Murder in Massachusetts](https://harpers.org/archive/1936/03/murder-in-massachusetts/). Joseph F. Dinneen, Harper's Magazine, 1936.
 
+[The Case of the Scattered Dutchman](https://www.newyorker.com/magazine/1955/09/24/the-case-of-the-scattered-dutchman). A. J. Liebling, The New Yorker, 1955.
+
 [The End of Evil](https://believermag.com/the-end-of-evil/). Sarah Marshall,  The Believer, 2018.
 
 [The Hanging](https://www.theatlantic.com/magazine/archive/2013/03/the-hanging/309210/). Rich Shapiro, The Atlantic, 2011.
