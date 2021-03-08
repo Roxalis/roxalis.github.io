@@ -18,6 +18,8 @@ date: 26.07.2019
 
 [Angel Of Death](https://www.texasmonthly.com/articles/angel-of-death/). Skip Hollandsworth, Texas Monthly, 2007.
 
+[Angels & Demons](http://reprints.longform.org/angels-demons). Thomas French, St. Petersburg Times, 1997.
+
 [Butcher's dozen](https://harpers.org/archive/1949/11/butchers-dozen/). John B. Martin, Harper's Magazine, 1949.
 
 [California Inquest](https://harpers.org/archive/1974/05/california-inquest/). Barry Farrell, Harper's Magazine, 1974.
@@ -30,6 +32,8 @@ date: 26.07.2019
 [Feet Lost and Found in the Pacific Northwest](https://www.outsideonline.com/1922516/feet-lost-and-found-pacific-northwest). Cristopher Solomon, Outside Online, 2009.
 
 [Her Dark Places](https://www.texasmonthly.com/articles/her-dark-places/). Skip Hollandsworth, Texas Monthly, 2001.
+
+[If the Serial Killer Gets Us, He Gets Us](https://www.texasmonthly.com/articles/if-the-serial-killer-gets-us-he-gets-us/). Skip Hollandsworth, Texas Monthly, 2011.
 
 [Is Robert Abel Getting Away With Murder?](https://www.texasmonthly.com/articles/is-robert-abel-getting-away-with-murder/) Skip Hollandsworth, Texas Monthly, 1999.
 
