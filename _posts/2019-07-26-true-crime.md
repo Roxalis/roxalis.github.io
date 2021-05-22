@@ -24,7 +24,6 @@ date: 26.07.2019
 
 [California Inquest](https://harpers.org/archive/1974/05/california-inquest/). Barry Farrell, Harper's Magazine, 1974.
 
-
 [Capital Murder](https://www.texasmonthly.com/articles/capital-murder/). Skip Hollandsworth, Texas Monthly, 2000.
 
 [Center of the Universe](http://www.orangecoast.com/features/center-of-the-universe/). Jay Roberts, Orange Coast, 2013.
@@ -76,6 +75,8 @@ date: 26.07.2019
 [Green River Killer: A True Detective Story](https://www.goodreads.com/book/show/11489682-green-river-killer?from_search=true). Jeff Jensen, Dark Horse Originals, 2011.
 
 [Explaining Hitler: The Search for the Origins of His Evil](https://www.goodreads.com/book/show/35455696-explaining-hitler?from_search=true). Ron Rosenbaum, Da Capo Press, 2014.
+
+[Hitler 1889 - 1945](https://www.goodreads.com/book/show/9545607-hitler-1889-1945?ac=1&from_search=true&qid=6K5F7o27C6&rank=2). Ian Kershaw, Pantheon, 2009.
 
 [In Cold Blood](https://www.goodreads.com/book/show/168642.In_Cold_Blood?from_search=true). Truman Capote, Vintage, 1994.
 
