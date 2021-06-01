@@ -6,8 +6,6 @@ author:
 date: 27.04.2020
 ---
 
-I
-
 On a sunny and mild Saturday late afternoon my older brother Pete and I passed a graveyard on the right and then the Gray Baptist church on the left. We drove the pickup off Cumberland Gap Parkway onto the appliance dump and unloaded the washing machine that Pete had offered a colleague to dispose of. I glanced over the site. Other than dense woods to the north and surrounding high grass, there was no flora. The ground was a mixture of yellow-orange sand and dirt. People had demolished appliances randomly and covered them with graffiti. On a fridge some one had written, “Jim Beam was here.” I went for a stroll in this lonely place and, suddenly, saw it obscured behind a small hill. The mattress looked new and clean and was wrapped in plastic. After removing the elastic cover, I took a deep breath. It had a lovely rose scent. “Perfect,” I thought. “Who’d dump such a nice mattress,” I asked my brother. He shrugged. Pete and I loaded it onto the truck, then we took the highway to London where Pete’s wife Jill cooked us a meal.
 
 After dinner, I drove my pickup back to Lexington and arrived an hour later. Our house is a one-story five-room home in a quiet and friendly neighborhood, built of red brick with a large back garage, a blue front door, and a big lawn. After my mother had died, my girlfriend Marion and I renovated our new home, therefore the interior now has a different touch: new appliances, only a few pictures and simple, practical furniture.  

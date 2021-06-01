@@ -6,8 +6,6 @@ author:
 date: 12.03.2020
 ---
 
-I
-
 After completing his thoughts, wing commander Fawcet, a tall man in his forties, glanced up from the report, played with his moustache, and heaved a sigh. Then he got up from his desk and left his room. He walked down the hall to group captain Macintosh’s office where he knocked on the door and waited for an answer which came rather harshly in the captain’s deep voice. Commander Fawcet opened the door.  
 “Ah, the report! I’ll look into it soon enough,” said group captain Macintosh. “Now, we have to discuss the current situation. Central Command North has briefed me and ordered high alert. The situation is becoming more dangerous by the day. Like our British prime minister the president of the US has declined to discuss the vessel attack with the European Union any further. Instead, all divisions, and the air force in particular, are on high alert. It’s a dire situation, Fawcet!”   
 “I see. What are your orders, sir?”   
