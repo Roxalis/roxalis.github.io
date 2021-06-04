@@ -3,7 +3,7 @@ layout: post
 title: I still love you
 excerpt: "Flash"
 author:
-date: 03.06.2021
+date: 02.06.2021
 ---
 
 Tom sat nervously in a crowded diner, sweltered, and drank his coffee. A thin waitress rushed about and worked hard to please all the strangers. "I'd like to pay," Tom shouted over to her. Four minutes later he had left the diner, had crossed the icy road, and had entered his Buick Riviera. While driving down Liberty Street he opened the newly bought pack. He put a cigarette in his mouth — his hand was shaking — and smoked. Tom coughed, since he had never smoked before. "This is a nightmare!" he cried out. "I must drive back, but I can't. Someone might see me."
