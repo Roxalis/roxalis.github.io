@@ -1,6 +1,6 @@
 ---
 layout: post
-title: White Rabbits
+title: White rabbits
 excerpt: "Short Story"
 author:
 date: 27.04.2020

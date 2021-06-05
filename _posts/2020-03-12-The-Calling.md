@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Calling
+title: The calling
 excerpt: "Short Story"
 author:
 date: 12.03.2020

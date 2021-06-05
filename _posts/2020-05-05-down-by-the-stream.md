@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Down by the Stream
+title: Down by the stream
 excerpt: "Short Story"
 author:
 date: 05.05.2020

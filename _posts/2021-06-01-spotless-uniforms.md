@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotless Uniforms
+title: Spotless uniforms
 excerpt: "Flash"
 author:
 date: 01.06.2021

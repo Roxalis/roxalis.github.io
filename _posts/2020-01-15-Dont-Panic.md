@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Panic
+title: Don't panic!
 excerpt: "Short Story"
 author:
 date: 15.01.2020
