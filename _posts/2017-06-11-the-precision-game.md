@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Precision Game
+title: The precision game
 excerpt: "'Poetry'"
 author: 
 date: 11.06.2017
@@ -93,7 +93,7 @@ In this blue stream of reinvigoration.
 
 ---
 
-## Venus boy
+## Venus and Mars
 
 An open heart: their words had torn his world  
 Apart; and wasps can kill ten bees an hour.  
@@ -105,7 +105,7 @@ And time-space riddles speak out
 From the core; an open crypt.   
 Her eyes' tears grow a sea.  
 
-Venus Boy, a pleasure trigger!  
+Oh Mars, a pleasure trigger!  
 With him true love will beg to be  
 On her, with him, for her;  
 On him, with her, for him.  
