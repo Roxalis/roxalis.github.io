@@ -8,7 +8,7 @@ date: 11.06.2017
 
 ---
 
-## The Precision Game
+## The precision game
 
 From in-vivo study to in-vitro test:  
 I’m on a quest to aim for the hit  
