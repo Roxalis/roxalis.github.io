@@ -1,5 +1,5 @@
 <span style="display:block; height: 1px;"></span>
-# Welcome To My Blog
+# Welcome to my blog!
 
 <ul class="ex1">
   {% for post in site.posts %}
