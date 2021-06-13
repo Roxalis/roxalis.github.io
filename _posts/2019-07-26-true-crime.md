@@ -36,6 +36,8 @@ date: 26.07.2019
 
 [Is Robert Abel Getting Away With Murder?](https://www.texasmonthly.com/articles/is-robert-abel-getting-away-with-murder/) Skip Hollandsworth, Texas Monthly, 1999.
 
+[Legends of Lizzie](https://www.newyorker.com/magazine/1933/04/22/legends-of-lizzie). Edmund Pearson, The New Yorker, 1933.
+
 [Murder by Craigslist](https://www.theatlantic.com/magazine/archive/2013/09/advertisement-for-murder/309435/). Hanna Rosin, The Atlantic, 2013.
 
 [Murder in Massachusetts](https://harpers.org/archive/1936/03/murder-in-massachusetts/). Joseph F. Dinneen, Harper's Magazine, 1936.
@@ -55,6 +57,8 @@ date: 26.07.2019
 [The Master of the Murder Castle](https://harpers.org/archive/1943/12/the-master-of-the-murder-castle/). John B. Martin, Harper's, 1943.
 
 [The Monster of Florence](https://www.theatlantic.com/magazine/archive/2006/07/the-monster-of-florence/304981/). Douglas Preston, The Atlantic, 2007.
+
+[The other side of the river, revisited](https://www.newyorker.com/news/dispatch/the-other-side-of-the-river-revisited). Alex Kotlowitz, The New Yorker, 2021.
 
 [The Rapist Says He’s Sorry](https://robersonenglish4.wikispaces.com/file/view/Junod-The+Rapist+Says+He’s+Sorry+_+Gangrey.pdf). Tom Junod, GQ, 2007.
 
