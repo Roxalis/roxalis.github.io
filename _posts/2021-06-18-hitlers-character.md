@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hitler's Character
+title: Hitler's character
 excerpt: "List"
 author:
 date: 18.06.2021
