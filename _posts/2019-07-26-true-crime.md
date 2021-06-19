@@ -34,6 +34,8 @@ date: 26.07.2019
 
 [If the Serial Killer Gets Us, He Gets Us](https://www.texasmonthly.com/articles/if-the-serial-killer-gets-us-he-gets-us/). Skip Hollandsworth, Texas Monthly, 2011.
 
+[Inside the mind of a murderer: the power and limits of forensic psychiatry](https://www.theguardian.com/society/2021/jun/17/inside-the-mind-of-murderer-power-and-limits-of-forensic-psychiatry-crime-prison). Taj Nathan, Guardian, 2021.
+
 [Is Robert Abel Getting Away With Murder?](https://www.texasmonthly.com/articles/is-robert-abel-getting-away-with-murder/) Skip Hollandsworth, Texas Monthly, 1999.
 
 [Legends of Lizzie](https://www.newyorker.com/magazine/1933/04/22/legends-of-lizzie). Edmund Pearson, The New Yorker, 1933.
