@@ -12,8 +12,8 @@ They had met in a mortuary in Twin Falls.
 
 She poked her finger into his open, bleeding heart. 
 
-"You are quiet and cold. Like a stone!" Jane Doe replied.
+"You are quiet and cold. Like a stone," Jane Doe replied.
 
 He kissed her dry, chapped blue lips. 
 
-Finally, she thought, and smiled grotesquely.
+'Finally,' she thought, and smiled grotesquely.

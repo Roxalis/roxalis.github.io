@@ -10,9 +10,9 @@ Adolf Hitler (1889 - 1945)
 
 | Negativ |Neutral|Positive|
 |:----:|:----:|:----:
-|black and white thinking |eye for political and propagandist benefit| bold |
 |antisemite |dominant personality|crisis = elixir|
 |arrogant | hesitant |good memory|
+|black and white thinking |eye for political and propagandist benefit| bold |
 |cutting and destructive jokes | hypochondriac |good politician|
 |cynical |observance of secrecy|strong nerves|
 |dishonest | reserved ||
