@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hitler's Attributes
-excerpt: "List"
+excerpt: "Table"
 author:
 date: 18.06.2021
 ---
@@ -10,14 +10,14 @@ Adolf Hitler (1889 - 1945)
 
 | Negativ |Neutral|Positive|
 |:----:|:----:|:----:
-|antisemite |dominant personality|crisis = elixir|
-|arrogant | hesitant |good memory|
-|black and white thinking |eye for political and propagandist benefit| bold |
-|cutting and destructive jokes | hypochondriac |good politician|
+|antisemite |dominant personality| bold |
+|arrogant | eye for political and propagandist benefit |crisis = elixir |
+|black and white thinking | hesitant | good memory|
+|cutting and destructive jokes | hypochondriac |'good politician'|
 |cynical |observance of secrecy|strong nerves|
 |dishonest | reserved ||
 |does not tolerate contradiction | restless ||
-|egocentric |superficial feelings||
+|egocentric |||
 |endless monologues |||
 |exploitative |||
 |humourless |||
@@ -36,6 +36,7 @@ Adolf Hitler (1889 - 1945)
 |play-acting |||
 |racist |||
 |social darwinist |||
+|superficial feelings |||
 |violent-tempered |||
 
 Source: Hitler by Ian Kershaw
