@@ -28,7 +28,7 @@ A bright smile crossed Gary’s face. He unfastened his seatbelt and then slappe
 
 Under the shadows of a pine tree forest two policemen moved effortlessly up a hill. Both men had backpacks and the officer was carrying a .22 rifle over his shoulder. They were of similar small and heavy build and seen from afar one could have identified them as twins were it not for sergeant Richard Miller’s large grey moustache and the overall difference in age.  
 That morning was the beginning of a warm summer day and in the shadows the dry air was cool and inhabited by mosquitoes, black flies, and other flying insects. The air was so clean that a smell was hardly detectable, only the faint scent of soil and pine aroma.  
-“What’s your wife Tracy doing this weekend?”, Richard Miller asked.  
+“What’s Tracy doing this weekend?”, Richard Miller asked.  
 “She’ll see her friend Carrol.”  
 “I met Carrol in a parking lot of Foster’s in Sweet Home the other day.”  
 “There is also the party at Carmen Burns in 42nd Avenue, so she’ll have a great time.”  
