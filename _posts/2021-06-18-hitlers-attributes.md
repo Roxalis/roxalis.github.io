@@ -11,7 +11,7 @@ Adolf Hitler (1889 - 1945)
 | Negativ |Neutral|Positive|
 |:----:|:----:|:----:
 |antisemite |dominant personality| bold |
-|arrogant | eye for political and propagandist benefit |crisis = elixir |
+|arrogant | eye for political benefit |crisis = elixir |
 |black and white thinking | hesitant | good memory|
 |cutting and destructive jokes | hypochondriac |'good politician'|
 |cynical |observance of secrecy|strong nerves|
@@ -20,6 +20,7 @@ Adolf Hitler (1889 - 1945)
 |egocentric |||
 |endless monologues |||
 |exploitative |||
+|eye for propagandist benefit|||
 |humourless |||
 |hypocrite |||
 |hypocritical |||
